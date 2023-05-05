@@ -14,8 +14,9 @@ class Logger():
 
     def get_log(self, html=True)-> str:
         if html:
-            htm = "<br>".join(self.log.split("\n"))
-            return htm
+            delimiter = '<br>'
+            html_str = delimiter.join(self.log.splitlines())
+            return html_str
          
         return self.log
     

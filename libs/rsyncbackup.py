@@ -8,8 +8,8 @@ class backup:
     inc = ""
     
     def __init__(self) -> None:
-        self.time = self.setftime("%Y-%m-%d %H:%M")
         self.inc = self.setftime()
+        self.time = self.setftime("%Y-%m-%d %H:%M")
             
     def __createDir(self, path: str)-> bool:
         try:
@@ -35,10 +35,4 @@ class backup:
     def doBackup(self)-> str:
         cmmd = f"rsync {self.conf.options}{self.inc} {self.conf.origin} {self.conf.destination}{self.conf.folder}"
         result = subprocess.run(cmmd, shell=True, capture_output=True, text=True)
-        #result = subprocess.run(cmmd, capture_output=True)
-        #result = subprocess.run(cmmd)
-        #out = result.stdout.decode()
-        #out += "<br><br>"
-        #out += result.stderr.decode()
-        #return out
-        return result
+        return result.stdout
