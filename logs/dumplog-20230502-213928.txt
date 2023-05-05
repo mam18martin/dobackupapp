@@ -1,0 +1,7 @@
+20230502[21:38:03]-> Comienzo Backup FS Usuarios<br> 
+20230502[21:39:28]-> sending incremental file list
+
+sent 2.54M bytes  received 5.70K bytes  29.79K bytes/sec
+total size is 58.30G  speedup is 22,887.06
+<br><br> 
+

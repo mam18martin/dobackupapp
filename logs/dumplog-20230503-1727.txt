@@ -1,0 +1,12 @@
+20230503[17:26:24]-> Comienzo Backup FS Usuarios<br> 
+20230503[17:27:57]-> sending incremental file list
+deleting smorales/SKMBT_28323050218320.pdf
+deleting smorales/SKMBT_28323050216270.pdf
+smorales/
+smorales/ferraresi dni.pdf
+smorales/listado daiana abril.pdf
+
+sent 5.89M bytes  received 5.82K bytes  63.11K bytes/sec
+total size is 58.06G  speedup is 9,839.71
+<br><br> 
+

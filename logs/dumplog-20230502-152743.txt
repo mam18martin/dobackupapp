@@ -1,0 +1,8 @@
+20230502[13:31:40]-> Comienzo Backup FS Grupos 
+20230502[15:27:43]-> rsync: [sender] readdir("/mnt/fsgrp/Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021"): Permission denied (13)
+rsync: [sender] send_files failed to open "/mnt/fsgrp/Direccion General Tributaria/D G tributaria 2/micaela/CAMBIOS DE TITULARIDAD/CAMBIO DE TITULARES EXP 94646-2022/CAMBIO DE TITULARIDAD PADRON I-222845.pdf": Permission denied (13)
+rsync: [sender] send_files failed to open "/mnt/fsgrp/Direccion General Tributaria/D G tributaria 2/micaela/TITULARIDAD ARBA/TITULARIDAD ARBA 6920.pdf": Permission denied (13)
+file has vanished: "/mnt/fsgrp/Prevision Social/2022- 2023/GABRIELA/CERTIFFICACIONES/AMAYA LUIS HERMINIO/~$1.doc"
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.2.7]
+ 
+

@@ -1,0 +1,22 @@
+20230503[16:57:51]-> Comienzo Backup FS Usuarios<br> 
+20230503[16:59:36]-> sending incremental file list
+afischer/
+afischer/SKM_C554e23050315470.pdf
+afischer/SKM_C554e23050315480.pdf
+afischer/SKM_C554e23050315520.pdf
+fasprea/
+mirgonzalez/
+nbrazi/
+nchocobar/
+nchocobar/44194.pdf
+nduzac/
+nduzac/SKMBT_28323050316350.pdf
+nlombard/
+vamit/
+vamit/SKMBT_28323050316000.pdf
+vviglione/
+
+sent 9.66M bytes  received 5.87K bytes  91.62K bytes/sec
+total size is 58.06G  speedup is 6,006.76
+<br><br> 
+

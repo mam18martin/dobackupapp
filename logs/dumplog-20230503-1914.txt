@@ -1,0 +1,1559 @@
+20230503[17:26:24]-> Comienzo Backup FS Usuarios<br> 
+20230503[17:27:57]-> sending incremental file list
+deleting smorales/SKMBT_28323050218320.pdf
+deleting smorales/SKMBT_28323050216270.pdf
+smorales/
+smorales/ferraresi dni.pdf
+smorales/listado daiana abril.pdf
+
+sent 5.89M bytes  received 5.82K bytes  63.11K bytes/sec
+total size is 58.06G  speedup is 9,839.71
+<br><br> 
+20230503[17:27:57]-> Comienzo Backup FS Grupos<br> 
+20230503[19:14:48]-> sending incremental file list
+Contaduria/
+Contaduria/DEVOLUCION DE FACTURAS EJ 2023.xlsx
+Contaduria/DEVOLUCION FACTURAS DANIEL  EJ 2023 (enero 4-1).xlsx
+Contaduria/Facturas Ingresadas Diariamente a Contaduria 2023.xlsx
+Contaduria/2022/
+Contaduria/2022/Subsidios 2022.xls
+Contaduria/2022/Adry/
+Contaduria/2022/Adry/Notas/
+Contaduria/2022/Adry/Notas/ARCHIVO COMPRA DIRECTA.docx
+Contaduria/2022/Adry/Notas/Nota Pedido de expedientes Obras Publicas.docx
+Contaduria/2022/Adry/Notas/Nota pedido de exp. compras.docx
+Contaduria/2022/Adry/Notas/Numeros para cajas Tramix.docx
+Contaduria/2022/Adry/Notas/nota providencia.doc
+Contaduria/2022/Adry/Notas/toma conocimiento Subdireccion de Liquidacion.doc
+Contaduria/2023/
+Contaduria/2023/Anticipo-Reintegro de Gastos 2023.xls
+Contaduria/2023/OP Y OCEAS 2023.xlsx
+Contaduria/2023/Subsidios 2023.xls
+Contaduria/2023/ORDEN DE PAGO OBRAS PUBLICAS 55/
+Contaduria/2023/ORDEN DE PAGO OBRAS PUBLICAS 55/ORDEN DE PAGO NRO. 16285.pdf
+Contaduria/2023/ORDENES DE PAGO OBRAS PUBLICAS 53/
+Contaduria/2023/ORDENES DE PAGO OBRAS PUBLICAS 53/ORDEN DE PAGO NRO..367.pdf
+Contaduria/2023/ORDENES DE PAGO OBRAS PUBLICAS 54/
+Contaduria/2023/ORDENES DE PAGO OBRAS PUBLICAS 54/ORDEN DE PAGO NRO. 2705.pdf
+Contaduria/2023/ÓRDENES DE PAGO OBRAS PUBLICAS 54/
+Contaduria/2023/ÓRDENES DE PAGO OBRAS PUBLICAS 54/Responsables de Bienes Municipales 2015.doc
+Contaduria/ALEJANDRA  SCANER/
+Contaduria/ALEJANDRA  SCANER/ORDENES DE PAGO OBRAS PUBLICAS 54/
+Contaduria/ALEJANDRA  SCANER/ORDENES DE PAGO OBRAS PUBLICAS 54/ORDEN DE PAGO NRO. 2705.pdf
+Contaduria/BIENES/BIENES DE DOMINIO PRIVADO/
+Contaduria/BIENES/BIENES DE DOMINIO PRIVADO/EXP. 104993-22 Cerco Olímpico y portón en Predio Alianza Etapa 1.xlsx
+Contaduria/BIENES/BIENES DE DOMINIO PRIVADO/Exp. 100951-22 Mantenimiento Central de Atencion Medica de Emerg. a victimas de accidentes y catastrofes en la Via Publica.xlsx
+Contaduria/BIENES/BIENES DE DOMINIO PRIVADO/Exp.103657-22 Construcción de Sistema de Iluminación para el Parque Museo del Fútbol.xlsx
+Contaduria/BIENES/BIENES DE DOMINIO PRIVADO/DECRETOS FINALIZACIÓN DE OBRA/Ejercicio 2022/Compra Directa/Thumbs.db
+Contaduria/BIENES/BIENES DE DOMINIO PÚBLICO/
+Contaduria/BIENES/BIENES DE DOMINIO PÚBLICO/EXP. 102353-22 Remodelación de Parque Lineal Emilio Zola - Etapa 2.xlsx
+Contaduria/CONTADURIA/
+Contaduria/CONTADURIA/BIDONES ENERO Y FEBRERO 2022.doc
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/ocea 833-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/ocea 257-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/ocea 1048-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/9829-2020.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/928-2022.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/9242-2020.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/870-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/7498-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/5068-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/3686-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/3181-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/3151-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/1364-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/12987-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/10556-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/10521-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/10520-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/10498-2020.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/10403-2021.pdf
+deleting Contaduria/Ejercicios Contables/Nueva carpeta/
+Contaduria/DANY/
+Contaduria/DANY/Armario actualizado 13-9-22.xlsx
+Contaduria/DANY/FACTURAS AL 04-10-22.xls
+Contaduria/DANY/PLANILLA MARZO 2023 PRIVADA DANY.xlsx
+Contaduria/Ejercicios Contables/
+Contaduria/Ejercicios Contables/2022/
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Acta de Arqueo de Caja 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Afectación de Saldos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Artículo 44 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Asientos Manuales 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Balance General 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Balance de Sumas y Saldos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/CAIF 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Causas Judiciales 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Composición Deuda Flotante 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Copia Autenticada Asientos de Cierre 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Cuenta Corriente de Proveedores 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Cálculo de Recursos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Cálculo de Recursos Recaudado en mas 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Cálculo de Recursos Recaudado en mas por Fuente de Financiamiento 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Cálculo de Recursos Recaudado en menos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Cálculo de Recursos Recaudado en menos por Fuente de Financiamiento 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Cálculo de Recursos por Caracter Económico 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Cálculo de Recursos por Procedencia 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Decreto Transferencia de Saldos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Decretos Modificatorios del Presupuesto de Gastos del 01-10-2022 al 31-12-2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Dercretos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Detalle de Recibos Utilizados y Anulados 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Deuda Flotante por Imputación 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Deuda Flotante por Proveedor 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Disponibilidades 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Estado de Situación Patrimonial 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Evolución Activo 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Evolución Pasivo 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Extrapresupuestaria de Recursos y Gastos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Informe Titular Departamento Deliberativo 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Informe Titular Departamento Ejecutivo 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Informe de Pólizas 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Libro Mayor Cuentas Capital y Resultados 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Link pólizas y Ordenanzas 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Listado Deuda Reconocida 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Nota Elevación asuntos Municipales 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Nota Recepción HCD.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Nota elevación 2da parte.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Ordenanzas 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/PLANTA EJECUTADA AL 31-12-2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Planilla Analítica de Cheques Vencidos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Planilla Modificatoria del Presupuesto de Gastos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos con Crédito Disponible 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos con Crédito Disponible por Fuente de Financiamiento 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos con Crédito Igual a 0 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos con Crédito Igual a 0 por Fuente de Financiamiento 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos para Cuentas Afectadas 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos por Carácter Económico 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos por Fuente de Financiamiento 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos sin Crédito Disponible 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Presupuesto de Gastos sin Crédito Disponible por Fuente de Financiamiento 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Publicación Reseña Anual 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Publicación Reseña Anual firmada.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Publicación Reseña Semestral 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Publicación Reseña Semestral firmada 2.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Recepción Caja de Abogados.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Recursos Afectados vs Gastos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Resoluciones 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Sit. Económico-Financiera 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Acta Arqueo de Caja 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Afectación de Saldos firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Art 44 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Asientos Manuales 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Balance General 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Balance de Sumas y Saldos 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/CAIF 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Composición Deuda Flotante 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Copia Autenticada de Asientos de Cierre 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Cuenta Corriente Proveedores 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Cálculo de Recursos 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Cálculo de Recursos Recaudado en menos 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Cálculo de Recursos Recaudado en menos por Fuente de Financiamiento 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Cálculo de Recursos Recaudado en más 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Cálculo de Recursos Recaudado en más por Fuente de Financiamiento 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Cálculo de Recursos por Carácter Económico 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Cálculo de Recursos por Procedencia 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Decreto de Nombramiento Rosa González Sosa.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Deuda Flotante por Imputación 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Deuda Flotante por Proveedor 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Disponibilidades 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Estado de Situación Patrimonial 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Evolución Pasivo 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Evolución activo 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Extrapresupuestaria de Recursos y Gastos 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Informe Titular Departamento Deliberativo 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Libro Mayor Capital y Resultados 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Nota Elevación Balance 2022 HTC firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/PLANTA EJECUTADA AL 31-12-2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos con Crédito Disponible 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos con Crédito Disponible por Fuente de Financiamiento 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos con Crédito igual a 0 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos con Crédito igual a 0 por Fuente de Financiamiento 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos para Cuentas Afectadas 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos por Carácter Económico 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos por Fuente de Financiamiento 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos sin Crédito Disponible 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Presupuesto de Gastos sin Crédito Disponible por Fuente de Financiamiento 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Recursos Afectados Versus Gastos 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Situación Económico-Financiera 2022 firmado.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Afectación de Saldos 2022-1-15.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Afectación de saldos.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Asientos Manuales 2022-1-21.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Balance General 2022-1-5.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Balance General.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Balance de Sumas y Saldos 2022-1-9.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Balance de Sumas y Saldos.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/CAIF 2022-1.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Cuenta Corriente de Proveedores 2022-1-55.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Cálculo de Recursos 2022-1-18.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Cálculo de Recursos Recaudado en mas 2022-1-3.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Cálculo de Recursos Recaudado en mas por Fuente de Financiamiento 2022-1-8.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Cálculo de Recursos Recaudado en menos 2022-1-8.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Cálculo de Recursos Recaudado en menos por Fuente de Financiamiento 2022-1-12.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Cálculo de Recursos por Caracter Económico 2022-1-3.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Deuda Flotante por Imputación 2022-1-131.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Deuda Flotante por Proveedor 2022-1-124.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Disponibilidades 2022-1-4.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Evolución Activo 2022-1-6.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Evolución Pasivo 2022-1-5.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Extrapresupuestaria de Recursos y Gastos 2022-1-2.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos 2022-1-264.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos con Crédito Disponible 2022-1-168.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos con Crédito Disponible por Fuente de Financiamiento 2022-1-192.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos con Crédito Igual a 0 2022-1-136.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos con Crédito Igual a 0 por Fuente de Financiamiento 2022-1-162.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos para Cuentas Afectadas 2022-1-142.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos por Carácter Económico 2022-1-3.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos por Fuente de Financiamiento 2022-1-312.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos sin Crédito Disponible 2022-1-52.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Presupuesto de Gastos sin Crédito Disponible por Fuente de Financiamiento 2022-1-60.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Recursos Afectados vs Gastos 2022-1-9.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Recursos x carácter económico.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Recursos.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/Sit. Económico-Financiera 2022-2.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/caif.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/cc proveedores.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/deuda flotante por imputación.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/deuda flotante por proveedor.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/disponibilidades.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/evolucion activo.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/extrapresup rec gtos.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/ni idea.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/pasivo.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos con credito  x fuente.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos con credito.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos credito igual a 0 x fuente.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos credito igual a 0.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos p ctas afectadas.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos por carácter económico.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos sin credito x fuente.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/presupuesto de gastos sin credito.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/recursos en mas.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/recursos en menos x fuente.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/recursos en menos.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/recursos x fuente.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/sit econ 1.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/sit econ 2.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Firmas/Terminados/versus.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/Asientos Automáticos Resumidos del 01-10-22 al 31-12-22.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/Asientos Manuales del 01-10-22 al 31-12-22.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/Balance General 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/Cálculo de Recursos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/Extrapresupuestaria de Recursos y Gastos 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/LISTADO DE ALTAS BIENES DOMINIO PRIVADO -OBRA TERMINADA- 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/LISTADO REGISTRO BIENES DOMINIO PUBLICO 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/Nota Rúbrica.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/Plan de Cuentas 2022.pdf
+Contaduria/Ejercicios Contables/2022/Cierre de Ejercicio/Rúbrica/Presupuesto de Gastos 2022.pdf
+Contaduria/Ejercicios Contables/2023/
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/11. Evolución Pasivo 2021.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/11. Evolución Pasivo 2022.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/11. Evolución Pasivo al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/12. Modelo de Stock de deuda y perfil vencimientos Marzo 2023.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/9. Cálculo de Recursos 2021.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/9. Cálculo de Recursos 2022.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/9. Cálculo de Recursos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/9. Gastos por Objeto 2021.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/9. Gastos por Objeto 2022.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/9. Gastos por Objeto al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/Formularios Sector Público.xlsx
+Contaduria/Ejercicios Contables/2023/Leasing Banco Provincia/~$Formularios Sector Público.xlsx
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Acuse-71644.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Acuse-71653.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Asientos Automáticos Mensuales al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Asientos Manuales Analíticos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Balance de Sumas y Saldos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Balance general al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Cálculo de Recursos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Decretos 1er Trimestre 2023.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Devengamientos_20230428_Saldos.xlsx
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Extrapresupuestaria de Recursos y Gastos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Nota elevación Balance Primer Trimestre 2023.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Plan de Cuentas al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Planilla Modificatoria del Presupuesto de Gastos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Presupuesto de Gastos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Situación Económico Financiera al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Rúbrica 1er Trimestre 2023/
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Rúbrica 1er Trimestre 2023/Asientos Automáticos Mensuales al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Rúbrica 1er Trimestre 2023/Asientos Manuales Analíticos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Rúbrica 1er Trimestre 2023/Cálculo de Recursos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Rúbrica 1er Trimestre 2023/Extrapresupuestaria de Recursos y gastos al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Rúbrica 1er Trimestre 2023/Nota elevación rúbrica.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Rúbrica 1er Trimestre 2023/Plan de Cuentas al 31-03-23.pdf
+Contaduria/Ejercicios Contables/2023/Primer Trimestre 2023/Rúbrica 1er Trimestre 2023/Presupuesto de Gastos al 31-03-23.pdf
+Contaduria/HONORABLE TRIBUNAL DE CUENTAS/
+Contaduria/HONORABLE TRIBUNAL DE CUENTAS/APELACIÓN FALLO 2020/
+Contaduria/HONORABLE TRIBUNAL DE CUENTAS/APELACIÓN FALLO 2020/#38864_3-004.0-2021_FALLO_Municipalidad de Avellaneda 2021.pdf (1).pdf
+Contaduria/HONORABLE TRIBUNAL DE CUENTAS/APELACIÓN FALLO 2020/Observación 2020-Fallo 2020- Observación 2021- Fallo 2021.docx
+Contaduria/HONORABLE TRIBUNAL DE CUENTAS/OBSERVACIONES 2021/
+Contaduria/OPAGOSSCAN/
+Contaduria/OPAGOSSCAN/2023-05-03 (1).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (10).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (11).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (12).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (13).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (14).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (15).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (16).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (17).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (18).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (2).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (3).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (4).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (5).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (6).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (7).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (8).pdf
+Contaduria/OPAGOSSCAN/2023-05-03 (9).pdf
+Contaduria/ORDENES DE PAGO OBRAS PUBLICAS 54/
+Contaduria/ORDENES DE PAGO OBRAS PUBLICAS 54/ORDEN DE PAGO NRO. 2705.pdf
+Contaduria/ROSA/
+Contaduria/ROSA/2023INFORMES DE BANCO0205.doc
+Contaduria/ROSA/2023INFORMES DE BANCO2804.doc
+Contaduria/VERONICA DP/
+Contaduria/VERONICA DP/LISTADO FEBRERO 2023 DAIANA PRIVADA.xlsx
+Contaduria/VERONICA DP/PROGRAMA TECNICOS ENVION 2023.xlsx
+Contaduria/VICKY ELLAURI/
+Contaduria/aDRiAnA ;)/
+Contaduria/sandra Morales/
+Contaduria/sandra Morales/Excel/
+Contaduria/sandra Morales/SANDRA 2/SANDRA 2021/
+Control de Personal/Lic medicas1/CD enviadas/
+Control de Personal/REL SIN CONEXION/9digitos/
+Control de Personal/SISTEMA RELOJ - ARCHIVOS A EXPORTAR/2023/5 - MAYO - 23/
+Control de Personal/SISTEMA RELOJ - ARCHIVOS A EXPORTAR/2023/5 - MAYO - 23/20230502_novedades_asistenciales.xls
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/ANA MARIA/RECLAMOS E INFORMES 2023/HORAS,MARU,PERSONAL,GUARDIAS,PASES/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/ANA MARIA/RECLAMOS E INFORMES 2023/HORAS,MARU,PERSONAL,GUARDIAS,PASES/NOTA A CONSIDER MARU  HOR MOVIL ZARALEGUI,CONSIGLIE,ESPINA.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/ANA MARIA/RECLAMOS E INFORMES 2023/NOTAS INFORMADAS/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/ANA MARIA/RECLAMOS E INFORMES 2023/NOTAS INFORMADAS/DUBINI CORVALAN MARIANO cbio de guardia 42279.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/ANA MARIA/RECLAMOS E INFORMES 2023/NOTAS INFORMADAS/VILLARINO ROXANA  cbio de guardia 29301.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/ARTICULO 94/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/ARTICULO 94/ART.94 2023.xlsx
+deleting Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/AUSENTES Y ARTICULOS/AUSENTES 2023/MARZO/8F3AF955.tmp
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/AUSENTES Y ARTICULOS/AUSENTES 2023/ABRIL/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/AUSENTES Y ARTICULOS/AUSENTES 2023/ABRIL/ARTICULOS.xlsx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/AUSENTES Y ARTICULOS/AUSENTES 2023/ABRIL/AUSENTES.xlsx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/AUSENTES Y ARTICULOS/AUSENTES 2023/MARZO/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/AUSENTES Y ARTICULOS/AUSENTES 2023/MARZO/ARTICULOS.xlsx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAMIONEROS/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAMIONEROS/BASE DATOS - CCC - CAMIONEROS.xlsx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/varios-2023.xlsx
+deleting Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/INFORME OFICIO 38 SOL LEGALES ASIST  tributaria mayo 2013 a la fecha.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/ART 91 EXPTE 108349 23 - DE GORGUE NESTOR  a subsec gestion con previo pase rrhh x mod fecha.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/ART 91 EXPTE 109297 23 - DE LOS SANTOS MARIA  a subsec gestion con previo pase rrhh x mod fecha.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/ART 91 EXPTE 109297 23 - FERNANDEZ WALTER  a subsec gestion con previo pase rrhh x mod fecha.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/ART 91 EXPTE 109520 23 - ZABALA ELIAS a consejo comun con previo pase rrhh.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/ART 91 EXPTE 1097576 23 BUSTOS RICARDO  a produccion dpto feria.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/HOR MOVIL EXPTE 107841 23 BARBERIA BRIAN a cma.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/HOR RED x LAC EXPTE110092 23 - SALERNO GISELLAI  a rrhh.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/OFICIO Nº 26- LIQUIDACIONES/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/OFICIO Nº 26- LIQUIDACIONES/INFORME OFICIO 38 SOL LEGALES ASIST  tributaria mayo 2013 a la fecha.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/INFORMES 2023/VARIOS/OFICIO Nº 26- LIQUIDACIONES/INFORME OFICIO Nº 26.xlsx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/NOTA REUBICACION PARA PERSONA 2023/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CAROLINA/CARPETA 2023/NOTA REUBICACION PARA PERSONA 2023/NOTA DE REUBICACION PARA PERSONA-FLEITAS BENITEZ ROLANDO a base 2.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CLARISA/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CLARISA/A CONSIDERACION DE MARIA EUGENIA.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CLARISA/Art94-cert ORIGINAL CAO 46822.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CLARISA/LIC. SIN GOCE  venegas.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CURSOS YO ACTIVIDADES/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CURSOS YO ACTIVIDADES/listado Art.86 y cursos-2023.xlsx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/CURSOS YO ACTIVIDADES/~$listado Art.86 y cursos-2023.xlsx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/JESICA/2023/ART 95/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/JESICA/2023/ART 95/ART 95 EXCEDE BARRIOS MARIA LEG. 49224.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/JESICA/2023/VARIOS/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/LIQUIDACION FINAL 2023/1- ENERO/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/MARCELA BRAVOO/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/MARCELA BRAVOO/CABRAS FERNANDO HS EXT LEGAL Y TECNICA.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/MARCELA BRAVOO/CABRAS FERNANDO HS EXT MARZO SUELDOS.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/MARCELA BRAVOO/VERGARA ALEJANDRA REINT 24 ENE.docx
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/MARCELA BRAVOO/VS AGENTES OBRAS HS EXT MARZO DELEGACION.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/MARCELA BRAVOO/VS AGENTES OBRAS HS EXT MARZO.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/NANU/2023/ART 95 23/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/NANU/2023/ART 95 23/VARIOS RACTIFICA 46293-50183-40234.doc
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/REINTEGROS/REINTEGROS - 2023/
+Control de Personal/SUBDCCION. CTROL. LIC. Y AUSENTISMO/REINTEGROS/REINTEGROS - 2023/REINTEGROS - 2023.xlsx
+ControlPrevio/
+ControlPrevio/COMISIONES BANCARIAS.doc
+ControlPrevio/chequesencustodia2022_.doc
+ControlPrevio/2023/
+ControlPrevio/2023/BORDEREAUX _03-2023.pdf
+ControlPrevio/2023/BANELCO/MAYO/
+ControlPrevio/2023/BANELCO/MAYO/LIQ2544.P.020523.html
+ControlPrevio/2023/BANELCO/MAYO/LIQB2544.P.020523.html
+ControlPrevio/2023/BANELCO/MAYO/cob2544.020523
+ControlPrevio/2023/BAPRO/ABRIL/
+ControlPrevio/2023/BAPRO/ABRIL/Retribucion 20230428.txt
+ControlPrevio/2023/BAPRO/MAYO/
+ControlPrevio/2023/BAPRO/MAYO/BPMunicAvellaneda20230503_02052023.TXT
+ControlPrevio/2023/BAPRO/MAYO/Retribucion 20230502.txt
+ControlPrevio/2023/FACIL/ABRIL/
+ControlPrevio/2023/FACIL/ABRIL/02050305.702
+ControlPrevio/2023/FACIL/ABRIL/02050305A.TXT
+ControlPrevio/2023/FACIL/ABRIL/250427042023.702
+ControlPrevio/2023/FACIL/ABRIL/25042704A.TXT
+ControlPrevio/2023/FACIL/ABRIL/260427042023.702
+ControlPrevio/2023/FACIL/ABRIL/26042704A.TXT
+ControlPrevio/2023/FACIL/COMISIONES/ABRIL/
+ControlPrevio/2023/FACIL/COMISIONES/ABRIL/06-B-0008-04660389.pdf
+ControlPrevio/2023/FACIL/COMISIONES/ABRIL/rafam0305.pdf
+ControlPrevio/2023/FACIL/COMISIONES/ABRIL/recaud0305.pdf
+ControlPrevio/2023/FACIL/COMISIONES/ABRIL/reporte (5).pdf
+ControlPrevio/2023/LINK PAGOS/MAYO/
+ControlPrevio/2023/LINK PAGOS/MAYO/0DR00502.li2
+ControlPrevio/2023/LINK PAGOS/MAYO/0DR00502_2023
+ControlPrevio/2023/LINK/MAYO/
+ControlPrevio/2023/LINK/MAYO/0AY00502.li2
+ControlPrevio/2023/LINK/MAYO/0AY005022023
+ControlPrevio/2023/MERCADO PAGO/MAYO/
+ControlPrevio/2023/MERCADO PAGO/MAYO/MER_PAGO_20230502.txt
+ControlPrevio/2023/MERCADO PAGO/MAYO/MER_PAGO_20230502_TOTALES.csv
+ControlPrevio/2023/RAPI/
+ControlPrevio/2023/RAPI/COMISIONES/
+ControlPrevio/2023/RAPI/COMISIONES/ABRIL/
+ControlPrevio/2023/RAPI/COMISIONES/ABRIL/FACTURA_06-B-0006-07643552.pdf
+ControlPrevio/2023/RAPI/COMISIONES/ABRIL/FACTURA_06-B-0006-07644434.pdf
+ControlPrevio/2023/RAPI/COMISIONES/ABRIL/FACTURA_06-B-0006-07645260.pdf
+ControlPrevio/2023/RAPI/COMISIONES/MAYO/
+ControlPrevio/2023/RAPI/COMISIONES/MAYO/FACTURA_06-B-0006-07645474.pdf
+ControlPrevio/2023/RAPI/MAYO/
+ControlPrevio/2023/RAPI/MAYO/P1230502.TXT
+ControlPrevio/2023/RAPI/MAYO/Val_Rec - 395 - 2023-05-03-07-01-01.pdf
+deleting ControlPrevio/2023/SUGIT/ENERO_2023.txt
+deleting ControlPrevio/2023/SUGIT/00000061_20230201_7377896_2.htm
+deleting ControlPrevio/2023/SUGIT/00000061_20230201_7377896_1.xls
+deleting Despacho/DETALLE DE SUBSIDIOS 2022/~$SUBSIDIOS 2022.xlsx
+deleting Despacho/DETALLE DE SUBSIDIOS 2022/Subsidios bomberos 2022.xlsx
+deleting Despacho/DETALLE DE SUBSIDIOS 2022/Subsidios Agosto 22.xlsx
+deleting Despacho/DETALLE DE SUBSIDIOS 2022/SUBSIDIOS 2022.xlsx
+deleting Despacho/DETALLE DE SUBSIDIOS 2022/
+ControlPrevio/2023/SUGIT/
+ControlPrevio/2023/SUGIT/ABRIL/
+ControlPrevio/2023/SUGIT/ABRIL/ABRIL_2023.txt
+ControlPrevio/2023/SUGIT/AGOSTO/
+ControlPrevio/2023/SUGIT/DICIEMBRE/
+ControlPrevio/2023/SUGIT/ENERO/
+ControlPrevio/2023/SUGIT/ENERO/ENERO_2023.txt
+ControlPrevio/2023/SUGIT/FEBRERO/
+ControlPrevio/2023/SUGIT/FEBRERO/00000061_20230201_7377896_1.xls
+ControlPrevio/2023/SUGIT/FEBRERO/00000061_20230201_7377896_2.htm
+ControlPrevio/2023/SUGIT/JULIO/
+ControlPrevio/2023/SUGIT/JUNIO/
+ControlPrevio/2023/SUGIT/NOVIEMBRE/
+ControlPrevio/2023/SUGIT/OCTUBRE/
+ControlPrevio/2023/SUGIT/SEPTIEMBRE/
+ControlPrevio/2023/TOTAL DE BANCOS/MAYO/
+ControlPrevio/2023/TOTAL DE BANCOS/MAYO/listadobancosatesoreria0305.xlsx
+ControlPrevio/2023/extractos/MAYO/
+ControlPrevio/2023/extractos/MAYO/02-05 AL 03-05.pdf
+ControlPrevio/2023/extractos/MAYO/reporte.pdf
+Despacho/
+Despacho/Carolina/
+Despacho/Carolina/Legitimo Abono- Liq de Haberes.docx
+Despacho/Carolina/NOTA genericas.docx
+Despacho/JULIANA/
+Despacho/JULIANA/102207.doc
+Despacho/JULIANA/102884.docx
+Despacho/JULIANA/15811.doc
+Despacho/JULIANA/48938.doc
+Despacho/JULIANA/50411.docx
+Despacho/JULIANA/71355.doc
+Despacho/JULIANA/73839.doc
+Despacho/JULIANA/97853.docx
+Despacho/JULIANA/TRIBUTARIA ACTAS 2023.docx
+Despacho/JULIANA/error en foliatura.doc
+Despacho/JULIANA/A TRIBUTARIA - DE APREMIOS/
+Despacho/JULIANA/A TRIBUTARIA - DE APREMIOS/49074 notificamos resol.doc
+Despacho/JULIANA/A TRIBUTARIA - DE APREMIOS/64725.doc
+Despacho/JULIANA/CONTROL PUBLICITARIO/
+Despacho/JULIANA/CONTROL PUBLICITARIO/18015.docx
+Despacho/JULIANA/CONTROL PUBLICITARIO/85668.docx
+Despacho/JULIANA/ELEVACIONES AL HCD/
+Despacho/JULIANA/EXP CARGO Nº X - ASUNTOS LEGALES/
+Despacho/JULIANA/SUBSIDIOS/
+Despacho/JULIANA/SUBSIDIOS/109924.docx
+Despacho/MODELOS -ARCHIVOS/NOTAS/
+Despacho/MODELOS -ARCHIVOS/NOTAS/a jefatura de compras.doc
+Despacho/MODELOS -ARCHIVOS/NOTAS/salud.doc
+Despacho/MODELOS -ARCHIVOS/compras decretos/
+Despacho/MODELOS -ARCHIVOS/compras decretos/aclaratoria.docx
+Despacho/MODELOS -ARCHIVOS/tributario/
+Despacho/Naiara/
+Despacho/RECOBRO VIVIENDAS/
+Despacho/RECOBRO VIVIENDAS/LISTADO EXPEDIENTES PENDIENTES EN DESPACHO.xlsx
+Despacho/RECOBRO VIVIENDAS/DEUDA Y COBRANZAS RECOBRO/
+Despacho/RECOBRO VIVIENDAS/DEUDA Y COBRANZAS RECOBRO/DETALLE SOLO DEUDA - ACTUALIZADA AL 17-03.xlsx
+Despacho/RECOBRO VIVIENDAS/El Condor III/
+Despacho/RECOBRO VIVIENDAS/NOTAS RECOBRO/
+Despacho/RECOBRO VIVIENDAS/PLANILLAS RECOBRO/
+Despacho/mercado xxi/
+Despacho/mercado xxi/DETALLE DE SUBSIDIOS 2022/
+Despacho/mercado xxi/DETALLE DE SUBSIDIOS 2022/SUBSIDIOS 2022.xlsx
+Despacho/mercado xxi/DETALLE DE SUBSIDIOS 2022/Subsidios Agosto 22.xlsx
+Despacho/mercado xxi/DETALLE DE SUBSIDIOS 2022/Subsidios bomberos 2022.xlsx
+Despacho/mercado xxi/DETALLE DE SUBSIDIOS 2022/~$SUBSIDIOS 2022.xlsx
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/1-FORMULARIO DE SOLICITUD DE Cambio de Domicilio Postal 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/3- FORMULARIO SOLICITUD DE Verificación de Pago erroneo, acreditacion de pago no registrado y-o  pagosduplicados 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 B-Formulario Solicitud Cambio de Titularidad TSG 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 C-FORMULARIO Solicitud de Certificado de libre deuda DE INMUEBLE 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 E- FORMULARIO SOLICITUD Exención Veteranos de Guerra TSG 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 F- FORMULARIO SOLICITUD DE Exención Jubilados y-o Pensionados TSG 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 G - FORMULARIO SOLICITUD DE Unificación de parcelas TSG 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 H-Formulario Solicitud de Division de parcelas TSG 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 I - formulario Solicitud de  Subdivisión de parcelas TSG 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 J-FORMULARIO SOLICITUD CAMBIO DE DESTINO TSG 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 K - FORMULARIO SOLICITUD  DE VERIFICACIÓN DE PAGOS EN CONCEPTO DE ALUMBRADO PÚBLICO.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/4 L - FORMULARIO SOLICITUD DE MODIFICACIÓN DE MODALIDAD DE PAGO DEL ALUMBRADO PÚBLICO.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/5 A-FORMULARIO DE SOLICITUD DE EXENCION POR DISCAPACIDAD IMPUESTO A LOS AUTOMOTORES 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/5 C -FORMULARIO SOLICITUD DE BAJA AUTOMOTOR Y MOTOVEHICULO POR CAMBIO DE RADICACION ROBO HURTO 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/5 D-FORMULARIO SOLICITUD DE CAMBIO DE TITULARIDAD AUTOMOTORES Y MOTOVEHICULOS (CON TRANSFERENCIA ANTE RNPA) 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/5 E-FORMULARIO SOLICITUD DE DENUNCIA DE VENTA 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/5 F -FORMULARIO SOLICITUD DE CERTIFICADO DE LIBRE DEUDA AUTOMOTOR 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/5 G- FORMULARIO DE SOLICITUD DE EXENCION PARA VETERANOS DE GUERRA IMPUESTO A LOS AUTOMOTORES 2023.xls.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/FORMULARIOS 2023/6 A - Fomulario Solicitud de Exención Comercio Pequeño Seg e Hig 2022.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/1-CAMBIO DOMICILIO DE ENVIO DE BOLETA 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/10-INGRESOS BRUTOS - ACTUALIZACION DE DATOS -REEMPADRONAMIENTO 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/11-INGRESOS BRUTOS -CLAVE CIT 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/2-MODALIDADES DE REGULARIZACION DE DEUDAS 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/3-VERIFICACIONES DE PAGOS DUPLICADOS, ERRONEOS O NO ACREDITADOS 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 A-TASA POR SERVICIOS GENERALES-ADHESION A DEBITO AUTOMATICO 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 B-TASA POR SERVICIOS GENERALES-CAMBIO DE TITULARIDAD 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 C-TASA POR SERVICIOS GENERALES -CERTIFICADO DE LIBRE DEUDA de INMUEBLE 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 D-CERTIFICADO DE  DEUDA POR VENTA de INMUEBLE para escribania 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 E-TASA POR SERVICIOS GENERALES-EXENCION A VETERANOS DE GUERRA 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 F-TASA POR SERVICIOS GENERALES-EXENCION DE JUBILADOS O PENSIONADOS 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 G-TASA POR SERVICIOS GENERALES-PARCELAS-UNIFICACION 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 H-TASA POR SERVICIOS GENERALES-PARCELAS-DIVISION 2022.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 I -TASA POR SERVICIOS GENERALES-PARCELAS-SUBDIVISION 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 J-TASA POR SERVICIOS GENERALES- SOLICITUD CAMBIO DE DESTINO 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 K-TASA POR SERVICIOS GENERALES- SOLICITUD  DE VERIFICACIÓN DE PAGOS EN CONCEPTO DE ALUMBRADO PÚBLICO.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/4 L-TASA POR SERVICIOS GENERALES- SOLICITUD  DE MODIFICACIÓN DE MODALIDAD DE PAGO DEL ALUMBRADO PÚBLICO.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/5 A -PATENTES DE AUTOMOTORES Y MOTOVEHICULOS - EXENCIÓN POR DISCAPACIDAD 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/5 B -PATENTES DE AUTOMOTORES Y MOTOVEHICULOS - ALTA 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/5 C - PATENTES DE AUTOMOTORES Y MOTOVEHICULOS- BAJA POR CAMBIO DE RADICACIÓN, TOBO, HURTO O DESTRUCCIÓN TOTAL 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/5 D -PATENTES DE AUTOMOTORES Y MOTOVEHICULOS-CAMBIO DE TITULARIDAD (CON TRANSFERENCIA ANTE RNPA) 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/5 E -PATENTE DE AUTOMOTORES Y MOTOVEHICULOS-DENUNCIA DE VENTA IMPOSITIVA 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/5 F -PATENTES DE AUTOMOTORES - CERTIFICADO DE LIBRE DEUDA AUTOMOTOR 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/5 G - PATENTES DE AUTOMOTORES Y MOTOVEHICULOS - EXENCIÓN VETERANOS DE GUERRA 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/6 A -TASA POR INSPECCION DE SEGURIDAD E HIGIENE-EXENCIÓN DE PAGO A PEQUEÑOS COMERCIOS 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/6 B-TASA POR INSPECCION DE SEGURIDAD E HIGIENE-EXENCIÓN DE PAGO PARA INSTITUTOS DE ENSEÑANZA PRIVADA 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/7- ACCESO WEB A SERVICIOS DE LA DGT 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/8-INGRESOS BRUTOS - INSCRIPCION 2023.pdf
+Direccion General Tributaria/D G Tributaria 1/MaRiAnA/GUIA DE TRAMITES 2023/9-INGRESOS BRUTOS-MODIFICACION DE DATOS 2023.pdf
+deleting Direccion General Tributaria/D G Tributaria 1/Mario/edesur.pdf
+Direccion General Tributaria/D G Tributaria 1/Mario/
+Direccion General Tributaria/D G Tributaria 1/Mrian Parisi/
+Direccion General Tributaria/D G Tributaria 1/Mrian Parisi/160821.pdf
+Direccion General Tributaria/D G Tributaria 1/Roxana/
+Direccion General Tributaria/D G Tributaria 1/Roxana/cedula de notificacion-Compumundo S.A..doc
+Direccion General Tributaria/D G Tributaria 1/chiqui/
+Direccion General Tributaria/D G Tributaria 1/chiqui/nota salvedad toner mayo-23.pdf
+Direccion General Tributaria/D G Tributaria 1/chiqui/pedido suministro toner mayo-23.pdf
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/83127-2022/
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/83127-2022/A CONTROL PAGO DUPLICADO Expte. 83959-2023.doc
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/83781-2023/
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/83781-2023/~$SPOSICION reimputación de pagos 83781-2023.docx
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/84826-2023/
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/Exp.82027 Devolucion Edesur/
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/Exp.82027 Devolucion Edesur/76312 INFORME.doc
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/Exp.82027 Devolucion Edesur/Decreto 76312.docx
+Direccion General Tributaria/D G Tributaria 4/ACREDITACIONES PAGO ERRONEO DEVOLUCION DINERO 2023/Exp.82027 Devolucion Edesur/Proyecto de Decreto 76312.docx
+Direccion General Tributaria/D G Tributaria 4/AUTOMOTORES/
+Direccion General Tributaria/D G Tributaria 4/AUTOMOTORES/79918.doc
+Direccion General Tributaria/D G Tributaria 4/AUTOMOTORES/80602.doc
+Direccion General Tributaria/D G Tributaria 4/CAMBIO DE DESTINO/2-108617-2013 cambio de titularidad i 383505 BALDIO/
+Direccion General Tributaria/D G Tributaria 4/CAMBIO DE DESTINO/2-108617-2013 cambio de titularidad i 383505 BALDIO/A Mesa para Notificar 2-108617 2023.doc
+Direccion General Tributaria/D G Tributaria 4/CERTIFICADOS Y LIBERACIONES/
+Direccion General Tributaria/D G Tributaria 4/CERTIFICADOS Y LIBERACIONES/CERTIFICADO I-32436.pdf
+Direccion General Tributaria/D G Tributaria 4/CERTIFICADOS Y LIBERACIONES/CERTIFICADO I-385366.pdf
+Direccion General Tributaria/D G Tributaria 4/CLUB DE FUTBOL/
+Direccion General Tributaria/D G Tributaria 4/CLUB DE FUTBOL/CLUB DE FUTBOL.xlsx
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/liquidacion de Obligación principal Mariano.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Vivi.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Perez.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Mariano.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Manuel.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Luis.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Leandro.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Juan Ramon.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Cristian.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Claudio.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Angel.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Alvarez.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Resumen DDJJ Adri.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Vivi.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Perez.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Mariano.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Manuel.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Luis.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Leandro.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Juan Ramon.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Cristian.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Claudio.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Angel.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Alvarez.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/DANIELA/Constancia de cierre de DJ Adri.pdf
+Direccion General Tributaria/D G Tributaria 4/DANIELA/
+Direccion General Tributaria/D G Tributaria 4/DERECHOS DE CONSTRUCCION DEUDAS POR NOMENCLATURA/
+Direccion General Tributaria/D G Tributaria 4/DERECHOS DE CONSTRUCCION DEUDAS POR NOMENCLATURA/i 152868.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS DE CONSTRUCCION DEUDAS POR NOMENCLATURA/i 3951.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS DE CONSTRUCCION DEUDAS POR NOMENCLATURA/i 5957.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS DE CONSTRUCCION DEUDAS POR NOMENCLATURA/i 77035.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS DE CONSTRUCCION DEUDAS POR NOMENCLATURA/i 77036.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-10429-1998 y 1-3194-2008 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-10429-98 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-16401-2008 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-16401-2008 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-25126-2015 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-25126-2015 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-28616-1995  mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-28616-1995 Y AGR mayo.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-34907-16 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-34907-2016 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-35002-16 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-35002-2016 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-35563-2016 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-40473-2006.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-40473-2006.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-40475-2006 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-40475-2006 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-40476-2006 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-40476-2006 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-47216-2017 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-47216-2017.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-50936-2006 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-50936-2006.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-53471-2012 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-81340-2022  mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-81340-2022 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-84871-2023 MAYO.docx
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/1-84871-23 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/4004-53471-2012 mayo.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/Thumbs.db
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/exp 1-35563-2016 Ubicación Av Hipolito Yrigoyen 299 1.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/exp 1-35563-2016 Ubicación Av Hipolito Yrigoyen 299 2.pdf
+Direccion General Tributaria/D G Tributaria 4/DERECHOS ESTRUCTURA/exp 1-35563-2016 Ubicación Av Hipolito Yrigoyen 299 3.pdf
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2018 EXPEDIENTES DE CREDITO/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/105043 2022/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/105043 2022/doble fs.doc
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/105543 2023/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/105543 2023/fs 30.pdf
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/105543 2023/fs.30.doc
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/105641 2023/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/105641 2023/fs 149.pdf
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/105641 2023/fs. 149.doc
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109141 2023/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109141 2023/109141 fs 2 a 47.doc
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109640 2023/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/109865 cuadro.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/109865 dispo.doc
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/109865 inicio.doc
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/Créditos Fiscales I-211210.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/Créditos Fiscales I-229900.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/Créditos Fiscales I-246173.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/Créditos Fiscales I-42731.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/Créditos Fiscales I-42805.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/TRAMITE 227.pdf
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/TRAMITE 228.pdf
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/TRAMITE 230.pdf
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/TRAMITE 231.pdf
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/109865 2023/TRAMITE229.pdf
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/110160 cuadro.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/110160 dispo.doc
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/110160 inicio.doc
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/Créditos Fiscales I-107516.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/Créditos Fiscales I-149465.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/Créditos Fiscales I-203565.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/Créditos Fiscales I-238481.xlsx
+Direccion General Tributaria/D G Tributaria 4/EDESUR 2022 NOV 16  EXPEDIENTES CON CREDITO/110160 2023/Créditos Fiscales I-74195.xlsx
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/autos 2012 ROXANA.xlsx
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/organismos sucerp.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/MSU887.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/MAO521.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/MAN820.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LZQ317.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LZP650.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LUX561.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LUX517.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LUX498.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LUC691.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LRQ941.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LRN746.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LQP857.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LQK773.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LPS463.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LPD041.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LOV284.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LOR504.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LOR066.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LOO377.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LOO372.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LOM750.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LNE414.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LMW991.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LMW201.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LMQ714.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LMQ688.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LMK511.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LMB229.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LLF371.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LKY709.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LKY693.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LKE661.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LJP001.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LJJ461.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LJH175.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LJD658.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LJC896.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LJA094.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LIR631.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LIE310.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LIA438.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LHB939.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LHB502.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LHB500.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LGQ436.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LGN526.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LGG664.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LFG521.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LFD184.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LEU882.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LET313.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LEF669.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LEF668.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LDK823.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LDK614.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LCG578.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LCF739.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LCF738.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LBH155.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LAI034.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/LAC529.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KZU296.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KYS658.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KWT780.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KWA872.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KVJ332.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KVD951.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KVD188.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KVD149.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KUR943.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KUP683.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KUO211.pdf
+deleting Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/KUM656.pdf
+Direccion General Tributaria/D G Tributaria 4/LUZ/
+Direccion General Tributaria/D G Tributaria 4/LUZ/AUTOS 2012 ANTO.xlsx
+Direccion General Tributaria/D G Tributaria 4/LUZ/AUTOS 2012 LUZ.xlsx
+Direccion General Tributaria/D G Tributaria 4/LUZ/AUTOS 2012 VIVI.xlsx
+Direccion General Tributaria/D G Tributaria 4/LUZ/Nota AGua Hacienda..doc
+Direccion General Tributaria/D G Tributaria 4/LUZ/autos 2012 CARO (Autoguardado) (Autoguardado).xlsx
+Direccion General Tributaria/D G Tributaria 4/LUZ/~$AUTOS 2012 VIVI.xlsx
+Direccion General Tributaria/D G Tributaria 4/LUZ/ANTO/
+Direccion General Tributaria/D G Tributaria 4/LUZ/ANTO/LDA748.pdf
+Direccion General Tributaria/D G Tributaria 4/LUZ/ANTO/LEN599.pdf
+Direccion General Tributaria/D G Tributaria 4/LUZ/ANTO/LHB936.pdf
+Direccion General Tributaria/D G Tributaria 4/LUZ/ANTO/LIH386.pdf
+Direccion General Tributaria/D G Tributaria 4/LUZ/ANTO/LQK646.pdf
+Direccion General Tributaria/D G Tributaria 4/LUZ/ANTO/LXN789.pdf
+Direccion General Tributaria/D G Tributaria 4/LUZ/ANTO/LXY966.pdf
+Direccion General Tributaria/D G Tributaria 4/LUZ/CARO/
+Direccion General Tributaria/D G Tributaria 4/LUZ/ROXANA/
+Direccion General Tributaria/D G Tributaria 4/LUZ/ROXANA/autos 2012 ROXANA.xlsx
+Direccion General Tributaria/D G Tributaria 4/LUZ/ROXANA/~$autos 2012 ROXANA.xlsx
+Direccion General Tributaria/D G Tributaria 4/MICROCREDITOS/
+Direccion General Tributaria/D G Tributaria 4/MICROCREDITOS/2-98486-2022 NO frimo PLAN 1.doc
+Direccion General Tributaria/D G Tributaria 4/MICROCREDITOS/listado 18 de julio.pdf
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/12-PERSONAL DGT-ASISTENCIA ABRIL 2023.xlsx
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Varios 2023.xls
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/Nobua Valeria justificacion carpeta 7858.PDF
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/Perello Viviana carpeta del 3-5-23.jpeg
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/carpeta 7803 Caballero Karina.jpeg
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/carpeta 7805 Vigide Garro Mirian.pdf
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/carpeta 7825 Reboa Fernanda.jpeg
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/carpeta 7827 Santoni Natalia.PDF
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/carpeta 7954 Figueroa Carolina.pdf
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/Certificados 2023/carpeta 7958 Nugnes Jonatan.pdf
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/DIARIO/
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/DIARIO/NOTA personal DGT 2023 0305.doc
+Direccion General Tributaria/D G Tributaria 4/PERSONAL/2023/HORAS/
+Direccion General Tributaria/D G Tributaria 4/TUTU/
+Direccion General Tributaria/D G Tributaria 4/TUTU/agua...pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/30708279338 17-06-2021.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/30709522252 26-08-2021.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/30711899886 lic 242-2021.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/30712143831 01-06-2021.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/I-1762.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/I-204875.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/I-222745.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/I-233898.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/I-38249.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/I-81428.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/Raizen.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/baja DSC224.pdf
+Direccion General Tributaria/D G Tributaria 4/VIVI V/DEBITOS VIVI/EXPTE 85586-2021/temp.pdf
+Direccion General Tributaria/D G tributaria 2/Soledad/
+Direccion General Tributaria/D G tributaria 2/Soledad/caja Varios/
+Direccion General Tributaria/D G tributaria 2/Soledad/caja Varios/Archivo_MODIF DOMIC 75506.docx
+Direccion General Tributaria/D G tributaria 2/Soledad/caja Varios/Archivo_Sin_Cambios 22590.docx
+Direccion General Tributaria/D G tributaria 2/Soledad/caja Varios/adj 75506.pdf
+Direccion General Tributaria/D G tributaria 2/Soledad/caja Varios/~$chivo_MODIF DOMIC 75506.docx
+Direccion General Tributaria/D G tributaria 2/Soledad/caja Varios/~$chivo_Sin_Cambios 22590.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Tabla para Informe y Disposicion Baldios incremento 50% ms2.xls
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-104932-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-104932-2023/Disposicion Baldios Incremento 50%  104932.doc
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-104932-2023/Informe 104932.doc
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-104935-2022/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-106175-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-106415-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-106415-2023/Disp_520.pdf
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-19/reporte 391476.pdf
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-19/reporte 315765.pdf
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-19/reporte 28106.pdf
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-19/atributos 391476.pdf
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-19/atributos 315765.pdf
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-19/atributos 28106.pdf
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-19/Disposicion_Alta_Oficio.docx
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-19/
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-45500-2015/adjunto.pdf
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-45500-2015/acumulacion.docx
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-45500-2015/AL HCD.docx
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-45500-2015/
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-81162-2022/Pase_Creditos_Cuadro.doc
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-81162-2022/A C.PREVIO CREDITOS.doc
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-106445-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-106445-2023/Disp_519.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-107164-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Baldios/Expedientes/2-107164-2023/Disp_518.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-22590-2015/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-22590-2015/209520.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-22590-2015/209521.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-30180-2015/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-30180-2015/Adj_30180.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-30180-2015/Pase_HCD.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-30180-2015/3-45500-2015/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-30180-2015/3-45500-2015/acumulacion.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-30180-2015/3-45500-2015/adjunto.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-72617-2021/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-72617-2021/Adj_Post_72617.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-72617-2021/Disp_427.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-72617-2021/Pase_Mesa_Disposicion.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-76582-2022/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-78416-2022/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-78416-2022/78416-Pase_Comercio.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-81162-2022/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-81162-2022/Pase_Creditos.doc
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-83318-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-83318-2023/83318_Pase_Obras_ENTRANDO.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-83390-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-83390-2023/83390_CEDULA_PLANO.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-83533-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-83717-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-84251-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-84406-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-84406-2023/84406_Mesa sin cambios con deuda.doc
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-84406-2023/adj 84406 2.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-84541-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-84541-2023/84541_Dispo_OSE.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-85179-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-85356-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/1-85356-2023/1-85356-2023 DISPO SUBD.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Cedula_Archivo.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 01-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 1-2018.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 10-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 10-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 11-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 11-2018.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 12-2015.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 12-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 2-2015.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 2-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 3-2015.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 3-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 3-2018.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 4-2015.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 4-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 4-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 5-2015.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 5-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 5-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 5-2018.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 6-2015.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 6-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 6-2018.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 7-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 7-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 7-2018.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 8-2015.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 8-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 8-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda - 9-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda -01-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda -11-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda -12-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda -2-2018.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda -3-2017.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda -6-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda -7-2015.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda -9-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda 2-2016.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/Comprobante de pago Buenos Aires- Municipalidad de Avellaneda 4-2018.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/PAGOS -TSG - EXP 2-0-101675 - ARNEJO MARIA JULIA.zip
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/pagos de Arnejo.xlsx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-101675-2022/unificar comprobantes.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-92450-2021/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-93420-2022/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/2-93420-2022/93420_Pase_Obras_ENTRANDO.docx
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48810-2019/~$sposicion_OSE.docx
+deleting Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-50989-2022/~$se_Comercio_Obras.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-44844-2015/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-44844-2015/DISPO.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-44844-2015/IND TIT.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-47747-2018/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-47747-2018/Disposicion_OSE.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-47747-2018/IND TIT.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-47747-2018/Pase_Obras_entrando.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-2019/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-2019/Disposicion_Alta_Oficio.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-2019/atributos 28106.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-2019/atributos 315765.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-2019/atributos 391476.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-2019/reporte 28106.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-2019/reporte 315765.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48732-2019/reporte 391476.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48810-2019/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48810-2019/Disposicion_OSE.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48831-2019/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48831-2019/71119.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48831-2019/AL HCD.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48831-2019/reporte.pdf
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-48831-2019/~$AL HCD.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-50544-2022/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Expedientes/3-50989-2022/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Gustavo/Emisiones TSG 2023/06-2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Gustavo/Emisiones TSG 2023/06-2023/global 06-2023.xlsx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Gustavo/Emisiones TSG 2023/06-2023/tsg 06-2023.xls
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Modelos/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Modelos/AL HCD.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Modelos/2023/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Modelos/2023/Pase_Obras.docx
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Silvina/
+Direccion General Tributaria/D G tributaria 2/TSG Informes/Silvina/CEDULA NOTIFICACION 64746-2019.doc
+Direccion General Tributaria/D G tributaria 2/micaela/CAMBIOS DE TITULARIDAD/CAMBIO DE TITULARES EXP 94646-2022/CAMBIO DE TITULARIDAD PADRON I-222845.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/INSP BROMATOLOGICA EJER 2023 BOLETA 25680271.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/LIC 04-2023 CUOTA 02-2023 BOLETA 25681374.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/LIC 141-2023 CUOTA 05-2023 BOLETA 25681006.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/LIC 147-2023 SEG LLAMADO APERTURA 08-05-2023 11HS BOLETA 25680529.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/LIC 171-2022 CUOTA 05-2023 BOLETA 25680379.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/LIC 231-2023 APERTURA 05-05-2023 09.30HS BOLETA 25680575.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/LIC 533-2022 CUOTA 05-2023 BOLETA 25681148.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/LIC 64-2023 APERTURA 08-05-2023 09.30HS BOLETA 25680561.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/LIC 79-2023 APERTURA 23-05-2023 09HS BOLETA 25679696.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TASA POR DESINFECCION REMIS DOM AB282UT CUOTA 1A 5 2023  BOLETA 25680200.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 016 SUBTRIB 002 EVENTO 05 Y 06 DE MAYO DE 2023 BOLETA 25680505.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 016 SUBTRIB 002 EVENTO 06-05-2023 BOLETA 25680116.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 016 SUBTRIB 014-002 EVENTO DE ABRIL Y MAYO 2023 BOLETA 25680221-0231.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 016 SUBTRIB 015 EVENTO 07-05-2023 BOLETA 25637373.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 016 SUBTRIB 015 EVENTO 29-04-2023 BOLETA 25640383.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 016 SUBTRIB 015 EVENTO 30 DE ABRIL 06 Y 13 DE MAYO DE 2023 BOLETA 25645018.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 016 SUBTRIB 016 EVENTO DE MAYO DE 2023 BOLETA 25640589.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 016 SUBTRIB 016 EVENTO DEL 26 DE ABRIL AL 07 DE MAYO DE 2023 BOLETA 25637384.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/TRIB 036 SUBTRIB 001 FECHA DEL PARTIDO 04-05-2023 RACING CLUB ASOC VS CLUB REGATAS FLAMENGO BOLETA 25681423.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/DEBITOS DEL DIA/2023/03-05-2023/VOLANTES 2023 LEG 331658 BOLETA 25681465.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/TITULARIDAD ARBA/TITULARIDAD ARBA 6920.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 18124-30851.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 41090.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 43486.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 53651.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 58252.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 61846.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 63332.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 64609.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 65000.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 65349.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 68526.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 68866.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 69414.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 72844.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 73274.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 73337.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 73820.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA COMERCIAL LEG 74360.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA EXP LEG 43946.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/BAJA comercial  leg 47582.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/baja comercial leg 65722.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/baja comercial leg 67470.pdf
+Direccion General Tributaria/D G tributaria 2/micaela/VARIOS DEL DIA/baja comercial leg 72726.pdf
+Direccion General Tributaria/Dorso Notificación 2023/
+Direccion General Tributaria/TRIPARTITO/
+Direccion General Tributaria/TRIPARTITO/Tripartito 004-2023.xlsx
+Direccion General Tributaria/TRIPARTITO/Tripartito 2022.accdb
+Direccion General Tributaria/TRIPARTITO/Tripartito año 2023/
+Direccion General Tributaria/TRIPARTITO/Tripartito año 2023/TRIPARTITO_004_20230401_01.TXT
+Direccion General Tributaria/TRIPARTITO/Tripartito año 2023/Tripartito 004-2023.xlsx
+Direccion General Tributaria/TRIPARTITO/Tripartito año 2023/Tripartito 2023_Lorena.accdb
+Direccion General de Personal/ANGIE/TRABAJOS/FALLECIMIENTO/
+deleting Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/Compra Directa PC y Monitores 04-2023 109270-2023/Presupuesto PC y Monitor.pdf
+deleting Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/Compra Directa PC y Monitores 04-2023 109270-2023/Pedido Sum. Pc y Monitor a Subir.pdf
+deleting Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/Compra Directa PC y Monitores 04-2023 109270-2023/PEDIDO DE SUMINISTRO PC y MONITORES 04-2023.docx
+deleting Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/Compra Directa PC y Monitores 04-2023 109270-2023/O.C. Pc y Monitores.pdf
+deleting Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/Compra Directa PC y Monitores 04-2023 109270-2023/
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/COMPRAS DIRECTAS CON CERT. RECEPCIÓN/
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/COMPRAS DIRECTAS CON CERT. RECEPCIÓN/COMPRA DIRECTA PC Y MONITORES 1 exp. 100651-22/
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/COMPRAS DIRECTAS CON CERT. RECEPCIÓN/Compra Directa PC y Monitores 04-2023 109270-2023/
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/COMPRAS DIRECTAS CON CERT. RECEPCIÓN/Compra Directa PC y Monitores 04-2023 109270-2023/Certificado de recepción PC y MONITORES Exp. 109270-2023 WANEVI.xlsx
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/COMPRAS DIRECTAS CON CERT. RECEPCIÓN/Compra Directa PC y Monitores 04-2023 109270-2023/O.C. Pc y Monitores.pdf
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/COMPRAS DIRECTAS CON CERT. RECEPCIÓN/Compra Directa PC y Monitores 04-2023 109270-2023/PEDIDO DE SUMINISTRO PC y MONITORES 04-2023.docx
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/COMPRAS DIRECTAS CON CERT. RECEPCIÓN/Compra Directa PC y Monitores 04-2023 109270-2023/Pedido Sum. Pc y Monitor a Subir.pdf
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/COMPRAS DIRECTAS CON CERT. RECEPCIÓN/Compra Directa PC y Monitores 04-2023 109270-2023/Presupuesto PC y Monitor.pdf
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/Compra Directa Cartuchos Impresora Mayordomía 109272-2023/
+Direccion General de Personal/Denise/PEDIDOS DE SUMINISTROS/Compra Directa Cartuchos Impresora Mayordomía 109272-2023/Certificado de recepción TONER Exp. 109272-2023 WANEVI.xlsx
+Direccion General de Personal/MYRIAN -/SEXTA JORNADA POR JUBILACIÓN/
+Direccion General de Personal/MYRIAN -/SEXTA JORNADA POR JUBILACIÓN/NOTA  DE  INFORME  SEXTA JORNADA MAYO 2023.docx
+Direccion General de Personal/MYRIAN -/SEXTA JORNADA POR JUBILACIÓN/SKM_28723050316210.pdf
+Direccion General de Personal/María Esther/
+Direccion General de Personal/María Esther/CONTROL AFILIACIONES.xlsx
+Direccion General de Personal/María Esther/DDJJ INGRESO ASIG FLIARES 2022.xlsx
+Direccion General de Personal/María Esther/ADIC 04-2023/
+Direccion General de Personal/María Esther/ADIC 04-2023/ADIC 04-2023 EX 70.xlsx
+Direccion General de Personal/María Esther/HABERES ABRIL 2023/CONTROL LQ 04-2023/
+Direccion General de Personal/NOELIA/
+Direccion General de Personal/Noemí/
+Direccion General de Personal/Noemí/informe_de_hijos_.xlsx
+deleting Direccion General de Personal/Yani/Terceros Marzo/UPCN/UPCN NL280.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/UPCN/UPCN NH460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/UPCN/UPCN ND460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/UPCN/UPCN NA450.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/UPCN/UPCN EA994.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/UPCN/UPCN EA035.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/UPCN/UPCN EA015.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/UPCN/
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/SUMA NH460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/SUMA ND460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/SUMA NA450.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/SUMA EA994.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/SUMA EA065.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/SUMA EA035.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/SUMA EA015.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/LISTADO - SUMA.xlsx
+deleting Direccion General de Personal/Yani/Terceros Marzo/SUMA/
+deleting Direccion General de Personal/Yani/Terceros Marzo/STMA/STMA NH460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/STMA/STMA ND460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/STMA/STMA NA450.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/STMA/STMA EA994.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/STMA/STMA EA065.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/STMA/STMA EA035.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/STMA/STMA EA015.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/STMA/
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA NH460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA NH460 - CUOTAS.txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA NH460 - CREDITO .txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA ND460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA ND460 - CUOTAS.txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA ND460 - CREDITO.txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA NA450.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA NA450 - CUOTAS .txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/MUTRAMA NA450 - CREDITO.txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/MUTRAMA/
+deleting Direccion General de Personal/Yani/Terceros Marzo/CAMIONEROS/Sindicato de Choferes de Camiones.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/CAMIONEROS/Federacion.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/CAMIONEROS/CAMIONEROS NL280.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/CAMIONEROS/
+deleting Direccion General de Personal/Yani/Terceros Marzo/BOLETAS AMRA/boleta muni avell 06-2023.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/BOLETAS AMRA/boleta muni avell 05-2023.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/BOLETAS AMRA/boleta muni avell 04-2023.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/BOLETAS AMRA/boleta muni avell 03-2023.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/BOLETAS AMRA/
+deleting Direccion General de Personal/Yani/Terceros Marzo/ATE/ATE NH460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/ATE/ATE NA450.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/ATE/ATE EA015.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/ATE/
+deleting Direccion General de Personal/Yani/Terceros Marzo/AMRA/AMRA NA450.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/AMRA/
+deleting Direccion General de Personal/Yani/Terceros Marzo/AMEPORT/AMEPORT NL280.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/AMEPORT/AMEPORT NH460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/AMEPORT/AMEPORT ND460.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/AMEPORT/AMEPORT NA450.TXT
+deleting Direccion General de Personal/Yani/Terceros Marzo/AMEPORT/
+deleting Direccion General de Personal/Yani/Terceros Marzo/AFIP/sicore.con
+deleting Direccion General de Personal/Yani/Terceros Marzo/AFIP/Listado 980.xlsx
+deleting Direccion General de Personal/Yani/Terceros Marzo/AFIP/
+deleting Direccion General de Personal/Yani/Terceros Marzo/bajas02032023_445.txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/bajas02032023_443.txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/altas0302_2023_445.txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/altas0302_2023_443.txt
+deleting Direccion General de Personal/Yani/Terceros Marzo/TERCEROS Marzo.xlsx
+deleting Direccion General de Personal/Yani/Terceros Marzo/QCAMISIN.CSV
+deleting Direccion General de Personal/Yani/Terceros Marzo/CARGOS_445_032023.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/CARGOS_443_032023.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/Boleta stihmpra - Marzo_2023.pdf
+deleting Direccion General de Personal/Yani/Terceros Marzo/ALTAS Y BAJAS.xlsx
+deleting Direccion General de Personal/Yani/Terceros Marzo/832.xlsx
+deleting Direccion General de Personal/Yani/Terceros Marzo/
+deleting Direccion General de Personal/Yani/LISTADOS DE INASISTENCIAS POR LIQUIDACIONES.xlsx
+deleting Direccion General de Personal/Yani/TERCEROS - ABRIL/AFIP/Listado 980.xlsx
+Direccion General de Personal/Yani/
+Direccion General de Personal/Yani/ALTAS Y BAJAS MUTRAMA.pdf
+Direccion General de Personal/Yani/CARGOS_443_042023.pdf
+Direccion General de Personal/Yani/CARGOS_443_042023.xlsx
+Direccion General de Personal/Yani/CARGOS_445_042023.pdf
+Direccion General de Personal/Yani/CARGOS_445_042023.xlsx
+Direccion General de Personal/Yani/ORDEN DE PAGO TERCEROS.doc
+Direccion General de Personal/Yani/TERCEROS - ABRIL/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/832.xlsx
+Direccion General de Personal/Yani/TERCEROS - ABRIL/Control - Txt.xlsx
+Direccion General de Personal/Yani/TERCEROS - ABRIL/QCAMISIN.CSV
+Direccion General de Personal/Yani/TERCEROS - ABRIL/TERCEROS Abril.xlsx
+Direccion General de Personal/Yani/TERCEROS - ABRIL/AFIP/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/AFIP/980 - 981.xlsx
+Direccion General de Personal/Yani/TERCEROS - ABRIL/AMEPORT/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/AMEPORT/AMEPPORT NA.TXT
+Direccion General de Personal/Yani/TERCEROS - ABRIL/AMEPORT/AMEPPORT NL.TXT
+Direccion General de Personal/Yani/TERCEROS - ABRIL/AMRA/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/ATE/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/BOLETAS AMRA/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/CAMIONEROS/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/CAMIONEROS/CAMIONEROS NL.TXT
+Direccion General de Personal/Yani/TERCEROS - ABRIL/MUTRAMA/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/STMA/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/STMA/STMA EA165.TXT
+Direccion General de Personal/Yani/TERCEROS - ABRIL/SUMA/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/SUMA/SUMA EA165.TXT
+Direccion General de Personal/Yani/TERCEROS - ABRIL/UPCN/
+Direccion General de Personal/Yani/TERCEROS - ABRIL/UPCN/UPCN NL.TXT
+Direccion General de Personal/giselle/
+Direccion General de Personal/giselle/EMBARGOS/
+Direccion General de Personal/giselle/EMBARGOS/EMB.PCIA.AVELL..doc
+Direccion General de Personal/giselle/EMBARGOS/EMBARGOS CIUDAD.doc
+Direccion General de Personal/giselle/EMBARGOS/EMBARGOS NACION.doc
+Direccion de Apremios/DESPACHOS VARIOS/
+deleting Direccion de Apremios/apremios (apremiosm1)/INFORME PRIMER TRIMESTRE TOTAL APODERADOS.xlsx
+Direccion de Apremios/apremios (apremiosm1)/
+Direccion de Apremios/apremios (apremiosm1)/CONSTANCIAS DE DEUDA/despachos de salida 2023/
+Direccion de Apremios/apremios (apremiosm1)/ESTADISTICA/estadistica/
+Direccion de Apremios/apremios (apremiosm1)/ESTADISTICA/estadistica/estadistica 2023-VALENTINA-.xlsx
+Direccion de Apremios/apremios (apremiosm1)/TRIBUNAL DE CUENTAS/
+Direccion de Apremios/apremios (apremiosm1)/TRIBUNAL DE CUENTAS/INFORME PRIMER TRIMESTRE 2023 TOTAL APODERADOS.pdf
+Direccion de Apremios/apremios (apremiosm1)/TRIBUNAL DE CUENTAS/INFORME PRIMER TRIMESTRE 2023 TOTAL APODERADOS.xlsx
+Ejecuciones Especiales/DRA. BIGARANI/CLEAN BAIRES s quiebra/
+Ejecuciones Especiales/DRA. BIGARANI/FIDEICOMISO ESTRALLA DEL SUR/
+Ejecuciones Especiales/DRA. BIGARANI/FIDEICOMISO ESTRALLA DEL SUR/ACREDITO PAGO DE HONORARIOS.docx
+Ejecuciones Especiales/DRA. BIGARANI/FIDEICOMISO ESTRALLA DEL SUR/ACREDITO PAGO DE HONORARIOS.pdf
+Ejecuciones Especiales/DRA. BIGARANI/FIDEICOMISO ESTRALLA DEL SUR/COMPROBANTE DE PAGO DE HONORARIOS.pdf
+Ejecuciones Especiales/DRA. BIGARANI/FIDEICOMISO LA ESTRELLA DEL SUR s QUIEBRA/
+Ejecuciones Especiales/DRA. BIGARANI/PESCE OSCAR/
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/CERTIFICADO DE JUICIO EXPTE 138863 CON APLIACION (FS 128 A 134).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/CERTIFICADO DE JUICIO EXPTE 138863 INIACO 01 02 2005 (FS. 126).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/CERTIFICADO EXPTE 21345 INICIADO 13 12 2008.pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/EXPEDIENTE APREMIOS 106040 (FS. 119 124).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/JUICIO DE APREMIO EXPTE 106043 (FS 161 165).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/JUICIO DE APREMIO EXPTE 12683 (FS 175 183).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/JUICIO DE APREMIO EXPTE 12684 (FS 152 160).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/JUICIO DE APREMIO EXPTE 139002 (FS 139 143).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/JUICIO DE APREMIO EXPTE 139003 (FS 166 172).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/JUICIO DE APREMIOS EXPTE 106042 (FS 135 138).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/JUICIO DE APREMIOS EXPTE 213643 BIS (FS 145 151).pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/constancias nuevas padron i 28110 28108 28109.pdf
+Ejecuciones Especiales/DRA. BIGARANI/POLIFAL s CONCURSO/verificacion polifal.docx
+Ejecuciones Especiales/DRA. BIGARANI/TONEL SRL s QUIEBRA/
+Ejecuciones Especiales/EDICTOS 2023/
+Ejecuciones Especiales/EDICTOS 2023/EDICTOS 3 DE MAYO DE 2023.docx
+Ejecuciones Especiales/Edictos FABIAN/
+Ejecuciones Especiales/Fabian/Despachos/
+Ejecuciones Especiales/Fabian/Despachos/Informe 2-54009-2005.docx
+Ejecuciones Especiales/Fabian/Despachos/Informe 76270-22.docx
+Ejecuciones Especiales/Fabian/Despachos/Informe inicio quiebra concurso NO VERIFICAR.docx
+Ejecuciones Especiales/Fabian/Fiscalgis SAPEM/Acta 1-2022/
+Ejecuciones Especiales/Fabian/Fiscalgis SAPEM/Pago multa Ceballos/
+Ejecuciones Especiales/Fabian/Seguimiento/
+Ejecuciones Especiales/Fabian/Seguimiento/Seguimiento MAILS enviados por Ejec Esp.xlsx
+Ejecuciones Especiales/Fabian/Seguridad Vial SAPEM/SEGURIDAD VIAL presentacion HTC/2013 SEGURIDAD VIAL presentacion HTC/
+Ejecuciones Especiales/Fabian/Seguridad Vial SAPEM/SEGURIDAD VIAL presentacion HTC/2013 Seguridad Vial HTC/Thumbs.db
+Ejecuciones Especiales/Fabian/Varios/BERDUN Mauricio/BERDUN presupuesto.txt
+Ejecuciones Especiales/Informes TRIBUNAL DE CUENTAS 2021/
+Gestion/04-PRESENTACIONES NOT/Nuevos Proyectos NOT JULIO 2010/R03-15.jpg
+HCD/HCD/ECONOMICO C-1 C-7 C-0  y Otras Comisiones/
+HCD/HCD/ECONOMICO C-1 C-7 C-0  y Otras Comisiones/32 ECONÓMICO 2022 ORDEN NUMERICO Nov Ultimo.xlsx
+HCD/Notas 2022/COMISIONES 2022/VIVIENDA/
+HCD/Notas 2023/1 ORDENANZAS 2023/
+HCD/Notas 2023/5 DECRETOS DE PRESIDENCIA/
+HCD/Notas 2023/5 DECRETOS DE PRESIDENCIA/069 - 2023   BONIF EGRESO MARIA CALENDARIA.docx
+HCD/Notas 2023/5 DECRETOS DE PRESIDENCIA/070 - 2023 BAJA C10  PAULINELLI VERONICA.docx
+HCD/Notas 2023/BOLETINES 2023/
+HCD/Notas 2023/BOLETINES 2023/BOLETIN 05 - 11 DE MAYO 2023.doc
+HCD/Notas 2023/COMISIONES 2023/ASUNTOS INSTITUC/
+HCD/Notas 2023/COMISIONES 2023/HACIENDA Y PRESUPUESTO/DESPACHOS/
+HCD/Notas 2023/COMISIONES 2023/HACIENDA Y PRESUPUESTO/DESPACHOS/51555 Leg Abono IZZO.doc
+HCD/Notas 2023/COMISIONES 2023/HACIENDA Y PRESUPUESTO/DESPACHOS/51556 Leg Abono MIRAMONTI.doc
+HCD/Notas 2023/COMISIONES 2023/HACIENDA Y PRESUPUESTO/DESPACHOS/51557 Leg Abono CHEULA.doc
+HCD/Notas 2023/COMISIONES 2023/HACIENDA Y PRESUPUESTO/DESPACHOS/51559 Leg Abono VARIOS AGENTES.doc
+HCD/Notas 2023/COMISIONES 2023/HACIENDA Y PRESUPUESTO/DESPACHOS/51560 Leg Abono VARIOS.doc
+HCD/Notas 2023/COMISIONES 2023/HACIENDA Y PRESUPUESTO/DESPACHOS/51562 Leg Abono VARIOS.doc
+HCD/Notas 2023/COMISIONES 2023/INFORMATICA 2021/
+HCD/Notas 2023/COMISIONES 2023/INFORMATICA 2021/Libro1CharlasyTalleresBAV2023.xlsx
+HCD/Notas 2023/COMISIONES 2023/INFORMATICA 2021/Prueba 1 Streaming BAV 2023.docx
+HCD/Notas 2023/COMISIONES 2023/Resumen para reunión de comisiones/
+HCD/Notas 2023/COMISIONES 2023/Resumen para reunión de comisiones/Nota Comisiones 2023 SICARI.doc
+HCD/Notas 2023/COMISIONES 2023/Resumen para reunión de comisiones/Resumen para sesion 08-05.docx
+HCD/Notas 2023/COMISIONES 2023/Resumen para reunión de comisiones/Resumen para sesión 08-05 Particulares y Bloque.doc
+HCD/Notas 2023/COMISIONES 2023/Resumen para reunión de comisiones/Presidentes/
+HCD/Notas 2023/COMISIONES 2023/VIVIENDA/
+HCD/Notas 2023/COMISIONES 2023/VIVIENDA/51569 Conv Financ de 39 Viv Predio Villa Tranquila III.doc
+HCD/Notas 2023/COMISIONES 2023/VIVIENDA/51570 Conv Financ de 6 vivi casa propia.doc
+HCD/Notas 2023/PERSONAL 2023/
+Oficina Anexa de Personal/
+Oficina Anexa de Personal/CALENDARIO OFICINA.xlsx
+Oficina Anexa de Personal/DEVOLUCION CONVOCATORIAS EXTERNAS 2021 2022 2023.xlsx
+Oficina Anexa de Personal/INGRESOS Y PASES 2021- 2022 - 2023.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/
+Oficina Anexa de Personal/BASE DE DATOS/BASE 1- NOVIEMBRE 2019.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/BASE 2 - NOVIEMBRE 2019.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/BASE 3 - noviembre 2022.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/BASE 4 - ENVION - EXPO.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/BASE 5- MAIL- ESPONTANEOS.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/CARGA DE CARTAS LOURDES.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/CARGAS DE CARTAS JERE.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/cargas MARIANELA.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/cargas NOE.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/cargas RODRI.xlsx
+Oficina Anexa de Personal/BASE DE DATOS/PADRON- CUIT/
+Oficina Anexa de Personal/BASE DE DATOS/PADRON- CUIT/PADRON 2021.xlsx
+Oficina Anexa de Personal/BUSQUEDAS EXTERNAS/2023/CONV. COOP. MATECOCIDO/
+Oficina Anexa de Personal/BUSQUEDAS EXTERNAS/2023/CONV. COOP. MATECOCIDO/FOTOS/Thumbs.db
+Oficina Anexa de Personal/BUSQUEDAS EXTERNAS/2023/SOLDADORAS MAYO 2023/
+Oficina Anexa de Personal/BUSQUEDAS EXTERNAS/2023/SOLDADORAS MAYO 2023/FINAL.xlsx
+Oficina Anexa de Personal/BUSQUEDAS EXTERNAS/2023/SOLDADORAS MAYO 2023/llamados.xlsx
+Oficina Anexa de Personal/BUSQUEDAS EXTERNAS/2023/SOLDADORAS MAYO 2023/ESCANEOS/
+Oficina Anexa de Personal/BUSQUEDAS EXTERNAS/2023/SOLDADORAS MAYO 2023/ESCANEOS/BUSTAMANTE BARBARA PATRICIA.jpeg
+Oficina Anexa de Personal/INGRESOS- CONVOCATORIAS- INFORMES 2022/CHIP 2022/ESCUELA DE POLICIA FEB23/
+Oficina Anexa de Personal/INGRESOS- CONVOCATORIAS- INFORMES 2022/CHIP 2022/ESCUELA DE POLICIA FEB23/INGRESO ESCUELA VUCETICH 2023.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/CURSOS/ENVIADOS/
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PORTAL EMPLEO/
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PORTAL EMPLEO/INSCRIPTOS EN PORTAL DE EMPLEO.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PORTAL EMPLEO/meta 100.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PORTAL EMPLEO/~$meta 100.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PORTAL EMPLEO/REPORTES/
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PORTAL EMPLEO/REPORTES/~$Personas registradas en el Portal de Avellaneda.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PROGRAMA EMPLEO INDEPENDIENTE/
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PROGRAMA EMPLEO INDEPENDIENTE/RESUMEN PEI.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PROGRAMA EMPLEO INDEPENDIENTE/~$RESUMEN PEI.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PROGRAMA EMPLEO INDEPENDIENTE/PROYECTOS CONFORMADOS/
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PROGRAMA EMPLEO INDEPENDIENTE/PROYECTOS CONFORMADOS/MESQUIATTI CINTHIA FERNANDA.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PROGRAMA EMPLEO INDEPENDIENTE/PROYECTOS CONFORMADOS/OLIVA CLAUDIA CAROLINA.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PROGRAMA EMPLEO INDEPENDIENTE/PROYECTOS CONFORMADOS/ORELLANO JUAN AUDON.xlsx
+Oficina Anexa de Personal/MINISTERIO DE TRABAJO/PROGRAMA EMPLEO INDEPENDIENTE/PROYECTOS CONFORMADOS/PANTANO MARIA LAURA.xlsx
+Oficina Anexa de Personal/POTENCIAR JOVENES/
+Oficina Anexa de Personal/POTENCIAR JOVENES/BECARIOS PARA POTENCIAR JOVENES.xlsx
+Oficina Anexa de Personal/PRACTICAS PROFESIONALIZANTES/2022/
+Oficina Anexa de Personal/PRACTICAS PROFESIONALIZANTES/2022/~$PRACTICAS PROFESIONALIZANTES- TECNICAS 2022.xlsx
+Oficina Anexa de Personal/PRACTICAS PROFESIONALIZANTES/escuelas especiales 2023/
+Oficina Anexa de Personal/PRACTICAS PROFESIONALIZANTES/escuelas tecnicas 2023/
+Oficina Anexa de Personal/PRACTICAS PROFESIONALIZANTES/escuelas tecnicas 2023/TOTAL X ESCUELAS- ESPECIALIDADES.xlsx
+Oficina Anexa de Personal/REGISTRO Y ASISTENCIA DE PROGRAMAS LABORALES/
+Oficina Anexa de Personal/REGISTRO Y ASISTENCIA DE PROGRAMAS LABORALES/BASE DE BENEFICIARIOS 2022.xlsx
+Oficina Anexa de Personal/REGISTRO Y ASISTENCIA DE PROGRAMAS LABORALES/CONTACTOS POR DEPENDENCIAS.xlsx
+Oficina Anexa de Personal/REGISTRO Y ASISTENCIA DE PROGRAMAS LABORALES/COOPERATIVA BOFFETTI.xlsx
+Oficina Anexa de Personal/UNIDAD EJECUTORA/
+Oficina Anexa de Personal/UNIDAD EJECUTORA/UNIDAD EJECUTORA 2023.xlsx
+Org Tributaria/
+Org Tributaria/LISTADO CEDULAS 2022 notas mariela.xlsx
+Org Tributaria/Listado de personal Dir. Org. Tributaria al 29-11-2022.xlsx
+Org Tributaria/NOTA DEVOLUCION CEDULAS A LA DGT 2021-ok.doc
+Org Tributaria/Planilla de rendicion por notificador 2023.xlsx
+Org Tributaria/~$Listado de personal Dir. Org. Tributaria al 29-11-2022.xlsx
+Org Tributaria/Correo/
+Org Tributaria/Correo/DETALLE ENTREGA CORREO ARGENTINO DE PIEZAS CON ACUSE 5 abril 2023.doc
+Org Tributaria/Correo/Planilla correo Argentino para despachar piezas 2022.xlsx
+Org Tributaria/NOTAS DEL PERSONAL/
+Org Tributaria/NOTAS DEL PERSONAL/Nota liquidacion horas extras Enero 2023.docx
+Presupuesto/
+Presupuesto/COmpromisos 2022 a 2023.docx
+Presupuesto/Decreto-ley 6769_1958.pdf
+Presupuesto/Reglamento-contabilidad-municipios.pdf
+Presupuesto/Presupuesto 1/Lorena/Informes Gerenciales/
+Presupuesto/Presupuesto 1/Lorena/Informes Gerenciales/AÑO 2023/
+Presupuesto/Presupuesto 1/Lorena/Informes Gerenciales/AÑO 2023/Compromisos Pendientes por Comprobante.xlsx
+Presupuesto/Presupuesto 1/Maria Sol/Despacho 2023/
+Presupuesto/Presupuesto 1/Maria Sol/Despacho 2023/Contratos potenciar.docx
+Presupuesto/Presupuesto 1/Pases escaneados/Pases de Expedientes (2023)/
+Presupuesto/Presupuesto 1/Pases escaneados/Pases de Expedientes (2023)/Abril/
+Presupuesto/Presupuesto 1/Pases escaneados/Pases de Expedientes (2023)/Abril/SKMBH28323050311390.pdf
+Presupuesto/Presupuesto 1/Pases escaneados/Pases de Expedientes (2023)/Abril/SKMBH28323050311420.pdf
+Presupuesto/Presupuesto 1/Pases escaneados/Pases de Expedientes (2023)/Abril/SKMBH28323050311460.pdf
+Presupuesto/Presupuesto 1/Pases escaneados/Pases de Expedientes (2023)/Marzo/
+Presupuesto/Presupuesto 1/Pases escaneados/Pases de Expedientes (2023)/Marzo/SKMBH28323050311500.pdf
+Presupuesto/Presupuesto 1/Solange/DECRETOS/Decretos 2022/RECURSOS AFECTADOS/
+Presupuesto/Presupuesto 1/Solange/DECRETOS/Decretos 2023/
+Presupuesto/Presupuesto 1/Solange/DECRETOS/Decretos 2023/Intervencion Integral calle Juan B. Justo.pdf
+Presupuesto/Presupuesto 1/Solange/DECRETOS/Decretos 2023/RECURSOS AFECTADOS/
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/Constancia de Inscripción a Ingresos Brutos.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/AFIP - Administración Federal de Ingresos Públicos.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/110045.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/110043.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109943.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109798.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109791.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109786.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109773.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109740.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109719.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109718.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109623.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109619.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109587.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109302.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109288.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109286.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109283.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109267.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109257.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109256.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109255.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109252.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109248.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109243.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109061.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/109042.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/108944.pdf
+deleting Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/108486+.pdf
+Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/
+Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/Promover.docx
+Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/PROBELMAS MAJOR/
+Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/PROBELMAS MAJOR/SITUACIONES NO RESUELTAS POR EL SISTEMA MAJOR.docx
+Presupuesto/Presupuesto 1/Solange/DESPACHO/Despacho 2023/PROBELMAS MAJOR/~$TUACIONES NO RESUELTAS POR EL SISTEMA MAJOR.docx
+Presupuesto/Presupuesto 1/Solange/INFORMES GERENCIALES/Informes gerenciales 2022/
+Presupuesto/Presupuesto 1/Solange/INFORMES GERENCIALES/Informes gerenciales 2022/Analisis afectados.xlsx
+Presupuesto/Presupuesto 1/Solange/INFORMES GERENCIALES/Informes gerenciales 2023/
+Presupuesto/Presupuesto 1/Solange/INFORMES GERENCIALES/Informes gerenciales 2023/Analisis afectados 2.xlsx
+Presupuesto/Presupuesto 1/Solange/INFORMES GERENCIALES/Informes gerenciales 2023/Movimientos Presupuestarios Gastos 20230421.xlsx
+Presupuesto/Presupuesto 1/Solange/INFORMES GERENCIALES/Informes gerenciales 2023/~$Analisis afectados 2.xlsx
+Presupuesto/Presupuesto 1/Solange/Presupuesto 2018/Papeles de trabajo/Lo único que sube es el pago de intereses _ El mini... _ Página12_files/Thumbs.db
+Prevision Social/2022- 2023/ERICA/
+Prevision Social/2022- 2023/ERICA/NOTA  DE  INFORME  SEXTA JORNADA MAyO 2023.docx
+Prevision Social/2022- 2023/Emmanuel/
+Prevision Social/2022- 2023/Emmanuel/CAVALLO, María Silvia 2.docx
+Prevision Social/2022- 2023/Emmanuel/CAVALLO, María Silvia.docx
+Prevision Social/2022- 2023/GABRIELA/
+Prevision Social/2022- 2023/GABRIELA/LIQ. FINAL.doc
+Prevision Social/2022- 2023/GABRIELA/CERTIFFICACIONES/BARRIOS FUERTES MAX MAURO/
+Prevision Social/2022- 2023/GABRIELA/CERTIFFICACIONES/BARRIOS FUERTES MAX MAURO/1.doc
+Prevision Social/2022- 2023/GABRIELA/CERTIFFICACIONES/BARRIOS FUERTES MAX MAURO/2.doc
+Prevision Social/2022- 2023/GABRIELA/CERTIFFICACIONES/BARRIOS FUERTES MAX MAURO/3.doc
+Prevision Social/2022- 2023/GABRIELA/CERTIFFICACIONES/MODELO/
+Prevision Social/2022- 2023/GRILLAS/
+Prevision Social/2022- 2023/GRILLAS/1280-21 decrto de bonificacion medica 30%.pdf
+Prevision Social/2022- 2023/LAURA/DECRETOS SEGURA/Thumbs.db
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/ANALIA/
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/ANALIA/FERNANDO.xlsx
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/ANALIA/LISTADO DE INGRESADOS SAP.xlsx
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/ANALIA/PREJUBILADOS ABRIL  2023.xls
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/ANALIA/bajas ana.xls
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/EMMANUEL/
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/EMMANUEL/PEDIDOS DE CERTIFICADOS.xlsx
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/GABRIELA/
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/GABRIELA/LISTADO DE CAMIONEROS a verificar situacion previsional.xls
+Prevision Social/2022- 2023/LISTADOS GENERALES JUBILACIONES/GABRIELA/LISTADO MAYORES NUEVO.xlsx
+Prevision Social/2022- 2023/MICAELA/
+Prevision Social/2022- 2023/MICAELA/Permiso para ir al médico.docx
+Prevision Social/SCAN/
+Prevision Social/SCAN/DNI EDUARDO.pdf
+Prevision Social/SCAN/IOMA ESPINZO.pdf
+Prevision Social/SCAN/PANTALLAS ANSES EDUARDO .pdf
+Prevision Social/SCAN/RECO EDUARDO.pdf
+Prevision Social/SCAN/Scan2023-05-03_081550.pdf
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN MUNICIPAL/Asistencia a Centros de Jubilados/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN MUNICIPAL/Asistencia a Centros de Jubilados/Asistencia a Centros de Jubilados.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN MUNICIPAL/SAMO/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN MUNICIPAL/SAMO/SAMO.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN MUNICIPAL/Servicios Adicionales de la Policía de Tránsito/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN MUNICIPAL/Servicios Adicionales de la Policía de Tránsito/Servicios Adic de la Policía de Tránsito.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Acumar - Análisis de Laboratorio y Monitoreo Protocolo Nº 5/Rendición/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Acumar - Análisis de Laboratorio y Monitoreo Protocolo Nº 5/Rendición/4ta.  Rendición  Acumar.xls
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Acumar- Distribución de Agua/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Acumar- Distribución de Agua/Distribución de Agua Envasada 2022.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Acumar- Residuos Sólidos Urbanos - Pasillos/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Acumar- Residuos Sólidos Urbanos - Pasillos/Residuos Sólidos Urbanos 2022.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Banco de Maquinarias/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Banco de Maquinarias/Banco de Maquinarias.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Entubamiento Arroyo Sarandí - Etapa IV/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Mercado de Cercanías/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Mercado de Cercanías/Mercado de Cercanías.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/PRO.ME.BA. - Infraestructura Pública para 100 Viviendas en Villa Maciel/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/PRO.ME.BA. - Proyecto Potenciar el Hábitat/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/PRO.ME.BA. - Proyecto Potenciar el Hábitat/Proyecto Potenciar el Hábitat.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Plan Cloaca mas Trabajo/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Plan Cloaca mas Trabajo/Plan Cloaca mas Trabajo.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Potenciar Trabajo/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Potenciar Trabajo/Potenciar Trabajo.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Programa Casa Propia - Construir Futuro/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Programa Casa Propia - Construir Futuro/Programa Casa Propia - Construir Futuro.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Programa Reconstruir/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Programa Reconstruir/Programa Reconstruir.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Programa de Promoción del Microcrédito/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Programa de Promoción del Microcrédito/Programa de Promoción del Microcrédito.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Programa de Respaldo  Estudiantes Argentinos - Progresar/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN NACIONAL/Programa de Respaldo  Estudiantes Argentinos - Progresar/Programa de Respaldo a Estudiantes Argentinos.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Centros Juveniles/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Centros Juveniles/Centros Juveniles.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Centros Juveniles/Rendiciones/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Centros Juveniles/Rendiciones/~$CENTROS JUVENILES Informe.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Fondo Educativo/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Fondo Educativo/Fondo Educativo.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Fondo de Fortalecimiento Programas Sociales/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Fondo de Fortalecimiento Programas Sociales/Fondo de Fortalecimiento de Programas Sociales.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Fondo de Fortalecimiento para la Seguridad Bonaerense/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Fondo de Fortalecimiento para la Seguridad Bonaerense/Fondo de Fortalecimiento para la Seguridad Bonaerense.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Intervención Integral Calle Juan B Justo/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Intervención Integral Calle Juan B Justo/Intervención Integral Calle Juan B Justo.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/PREIMBA/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/PREIMBA/PREIMBA.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Programa Especial de Emergencia Educativa/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Programa Especial de Emergencia Educativa/Programa Especial de Emergencia Educativa.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Programa Sumar/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Servicio Alimentario Escolar/
+Recursos Afectados Contaduria/Recursos Afectados/Nuevos Afectados/ORIGEN PROVINCIAL/Servicio Alimentario Escolar/Servicio Alimentario Escolar.xlsx
+deleting Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA MARZO 2023/CERTIFICADO 7 - 98 VAGON (2) (1).xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 1- 31 VIV. RAIZEN.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 1- 60 VIV EISSLER.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 1- ABRIL 2023-112 REIZEN.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 10-53 viv. TRANQUILA.xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 12- 37 SUIPACHA (2).xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 2 - 4 ESTANISLAO.xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 2 - 7 SUIPACHA.xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 23 - 72 VIVIENDAS MACIEL III.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 23-9 CAEM CASA PROPIA.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 7 - 98 VAGON (2) (1).xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 8 - 36 MACIEL II (3).xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO 8 44 ARGAÑARAZ - ABRIL 2023.xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA ABRIL 2023/CERTIFICADO ABRIL- 14 VIV. TRANQUILA.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA MARZO 2023/
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/CASA PROPIA/CASA PROPIA 2023/CASA PROPIA MARZO 2023/CERTIFICADO 7 - 98 VAGON (2) (1)11.xls
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/RECONSTRUIR/RECONSTRUIR 2023/
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/RECONSTRUIR/RECONSTRUIR 2023/RECONSTRUIR ABRIL 2023/
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/RECONSTRUIR/RECONSTRUIR 2023/RECONSTRUIR ABRIL 2023/CERTIFICADO 15- ABRIL 2023.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/RECONSTRUIR/RECONSTRUIR 2023/RECONSTRUIR ABRIL 2023/CERTIFICADO 16 - 197 ALIANZA -.xlsx
+Recursos Afectados Contaduria/Recursos Afectados/VARIOS/OBRAS PUBLICAS/RECONSTRUIR/RECONSTRUIR 2023/RECONSTRUIR ABRIL 2023/~$CERTIFICADO 16 - 197 ALIANZA -.xlsx
+Subsecretaria de gobierno/Fabián/
+Subsecretaria de gobierno/Fabián/EXTENSIONES HORARIAS Y COMPUTACIÓN 03-05-2023.xlsx
+Subsecretaria de gobierno/María Eugenia/
+Subsecretaria de gobierno/María Eugenia/EXTENSIONES HORARIAS Y COMPUTACIÓN 03-05-2023.xlsx
+Sumarios/Cédulas/
+Sumarios/Cédulas/cedula imputado.doc
+Tesoreria/
+Tesoreria/AFIP RETENCIONES/
+Tesoreria/AFIP RETENCIONES/Ganancias nueva.doc
+Tesoreria/AFIP RETENCIONES/RETENCIONES.xls
+Tesoreria/AFIP RETENCIONES/Transferencia Provincia a 21869-6 2.doc
+Tesoreria/AFIP RETENCIONES/Transferencia Fdo Terceros Membrete nuevo/
+Tesoreria/AFIP RETENCIONES/Transferencia Fdo Terceros Membrete nuevo/Transferencia Nacion a 21869-62.doc
+deleting Tesoreria/Año 2023/Recaudacion abril.xlsx
+Tesoreria/Año 2023/
+Tesoreria/Año 2023/Flujo 2023 con Fdos. Afectados.xls
+Tesoreria/Año 2023/Flujo 2023.xls
+Tesoreria/Año 2023/INGRESOS DEL DÍA.xlsx
+Tesoreria/Año 2023/INVERSIONES 2023.XLS
+Tesoreria/Año 2023/Recaudacion mayo.xlsx
+Tesoreria/Año 2023/Recaudación 2023.xls
+Tesoreria/Año 2023/Saldo 2023.XLS
+Tesoreria/Año 2023/Sueldos 2023.xlsx
+Tesoreria/Año 2023/proyeccion de gastos 2023.xlsx
+Tesoreria/Año 2023/~$proyeccion de gastos 2023.xlsx
+Tesoreria/Año 2023/EXTRACTOS CONTROL PREVIO/
+Tesoreria/Año 2023/EXTRACTOS CONTROL PREVIO/02-05 AL 03-05.pdf
+Tesoreria/Año 2023/OBRAS PUBLICAS/
+Tesoreria/Año 2023/OBRAS PUBLICAS/PENDIENTES ENERO A ABRIL 2023.xlsx
+Tesoreria/Año 2023/OBRAS PUBLICAS/mayo 23.xlsx
+Tesoreria/Año 2023/OBRAS PUBLICAS/~$PENDIENTES ENERO A ABRIL 2023.xlsx
+Tesoreria/Año 2023/OBRAS PUBLICAS/listados de obras 2023/
+Tesoreria/Año 2023/SUBSIDIOS/
+Tesoreria/Año 2023/SUBSIDIOS/SUBSIDIOS 2023.xlsx
+Tesoreria/BANCO GALICIA/
+Tesoreria/BANCO GALICIA/Trans.Bco.Galicia.Recaudacion NUEVA.doc
+Tesoreria/BANCO GALICIA/Transf.Bco.Galicia-Debitos NUEVA.doc
+Tesoreria/COPIA RETENCIONES/Año 2023/
+Tesoreria/COPIA RETENCIONES/Año 2023/04-ABRIL 2023.xls
+Tesoreria/EMISIONES/AÑO 2023/MAYO/
+Tesoreria/EMISIONES/AÑO 2023/MAYO/EMISION 03 DE MAYO DE 2023(INTENDENTE).xls
+Tesoreria/EMISIONES/AÑO 2023/MAYO/EMISION 03 DE MAYO DE 2023.xls
+deleting Tesoreria/LISTADO DE ORDENES PENDIENTES/ORDENES PENDIENTES DE PAGO AL 03 DE MAYO DE 2023.xls
+deleting Tesoreria/MACA/OTB/
+Tesoreria/FLOR/Notas Expedientes Debitos/
+Tesoreria/FLOR/Notas Expedientes Debitos/LEASING BICE.doc
+Tesoreria/LISTADO DE ORDENES PENDIENTES/
+Tesoreria/LISTADO DE ORDENES PENDIENTES/ORDENES PENDIENTES DE PAGO AL 04 DE MAYO DE 2023.xls
+Tesoreria/MACA/
+Tesoreria/MACA/FONDO DE INVERSION/58626-1 VIVIENDAS/FONDO DE INVERSION/
+Tesoreria/MACA/FONDO DE INVERSION/58626-1 VIVIENDAS/FONDO DE INVERSION/FONDO.doc
+Tesoreria/MACA/FONDO DE INVERSION/RESCATE/PARCIAL/
+Tesoreria/MACA/FONDO DE INVERSION/RESCATE/PARCIAL/RESCATE PARCIAL Ejercicio.doc
+Tesoreria/MACA/NOTAS/NOTAS EXPEDIENTES/
+Tesoreria/MACA/NOTAS/NOTAS EXPEDIENTES/TOMADO CONOCIMIENTO legales.doc
+Tesoreria/MEMOS/TRIBUTARIA/
+Tesoreria/MEMOS/TRIBUTARIA/MEMO TRANSFERENCIA CONTRIBUYENTES.xls
+Tesoreria/MEMOS/TRIBUTARIA/Transferencias por mes 2023.xlsx
+Tesoreria/MEMOS/TRIBUTARIA/retiro comprobante.doc
+Tesoreria/Movimiento y Cuest 2023/
+Tesoreria/Movimiento y Cuest 2023/Cuesp2023.xls
+Tesoreria/Movimiento y Cuest 2023/movim. 2023.XLS
+Tesoreria/NOTAS  MODELOS TRAMIX/ORGE/PAGO A PROVEEDORES/
+Tesoreria/NOTAS  MODELOS TRAMIX/ORGE/PAGO A PROVEEDORES/ORDENCHECK.xlsx
+Tesoreria/OTB/ejercicio/banco provincia/
+Tesoreria/OTB/ejercicio/banco provincia/03.05/
+Tesoreria/OTB/ejercicio/banco provincia/03.05/TR10761B.TXT
+Tesoreria/OTB/ejercicio/otros bancos/
+Tesoreria/OTB/ejercicio/otros bancos/03.05/
+Tesoreria/OTB/ejercicio/otros bancos/03.05/TR10761B.TXT
+Tesoreria/SCANER TRAMIX/JAVIER/
+Tesoreria/SCANER TRAMIX/JAVIER/GANANCIAS 2DA  ABRIL.pdf
+Tesoreria/SCANER TRAMIX/JAVIER/MODELO EXTRACTOS PARA IMPORTAR.xlsx
+Tesoreria/SCANER TRAMIX/JAVIER/leasing banco bice.pdf
+Tesoreria/SCANER TRAMIX/JAVIER/telefonica.pdf
+Tesoreria/SCANER TRAMIX/JAVIER/CASOS/Ruth Giordano/
+Tesoreria/Srta Patito/
+Tesoreria/Srta Patito/art 95 inciso C tramites particulares 2022.doc
+Tesoreria/Srta Patito/recupero permiso de salida 2021.doc
+Tesoreria/Srta Patito/~$mbio de horario membrete 2022.doc
+Tesoreria/Srta Patito/Día de Examen y Justificación/
+Tesoreria/TARJETAS 2023/
+Tesoreria/TARJETAS 2023/04-ABRIL 2023.xls
+Tesoreria/TARJETAS 2023/05-MAYO 2023 (2).xls
+Tesoreria/TRANSFERENCIAS NUEVAS/
+Tesoreria/TRANSFERENCIAS NUEVAS/518826 270026251 NUEVA.doc
+Tesoreria/TRANSFERENCIAS NUEVAS/518826 501893 NUEVA.doc
+Tesoreria/TRANSFERENCIAS NUEVAS/518826 521963 NUEVA.doc
+Tesoreria/Transferencias y Fondos con afectación y disponibles e imputación/
+Tesoreria/Transferencias y Fondos con afectación y disponibles e imputación/SALDOS DISPONIBLE MENOS RETENCIONES.xls
+
+sent 1.17G bytes  received 58.11K bytes  182.00K bytes/sec
+total size is 169.56G  speedup is 145.31
+<br><br> 
+

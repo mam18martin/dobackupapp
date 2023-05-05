@@ -1,0 +1,19 @@
+smtpconf:
+    sender: "notificacionesweb@mda.gob.ar"
+    senderpass: "Mda12345"
+    server: "smtp.office365.com"
+    port: 587
+    recipient: "Infraestructura Tecnologica <infraestec@mda.gob.ar>"
+    subject: "Informe Backup File Sever - "
+
+bkpusers:
+    origin: "/mnt/fsusr/"
+    destination: "/mnt/sfsbackup/backup/dominio/fileserver/usuarios/"
+    folder: "ultimobk/"
+    options: "--force -avh -x --no-X --no-p --no-o --no-g --ignore-errors --delete --delete-excluded --backup --backup-dir="
+
+bkpgroups:
+    origin: "/mnt/fsgrp/"
+    destination: "/mnt/sfsbackup/backup/dominio/fileserver/grupos/"
+    folder: "ultimobk/"
+    options: "--force -avh -x --no-X --no-p --no-o --no-g --ignore-errors --delete --delete-excluded --backup --backup-dir="
