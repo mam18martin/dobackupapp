@@ -3,6 +3,14 @@ from libs.logger import Logger
 from libs.mysendmail import Off365SendMail
 from libs.rsyncbackup import backup
 
+def backapear(conf: object, lg: object)-> None:
+    bkp = backup()
+    bkp.setconfig(conf)
+    lg.set_log(conf.title)
+    out = bkp.doBackup()
+    lg.set_log(out)
+    lg.set_log(f"Fin {conf.title}")
+
 # EntryPoint
 
 if __name__ == "__main__":
@@ -12,29 +20,13 @@ if __name__ == "__main__":
     smtp.subject += lg.textime
     mail = Off365SendMail(smtp)
 
-    def backapear(conf: object):
-        bkp = backup()
-        bkp.setconfig(conf)
-        out = bkp.doBackup()
-        return out
-
-
-    lg.set_log("Comienzo Backup FS Usuarios")
-    #bkp.setconfig(cnf.bkpusers)
-    exctusers = backapear(cnf.bkpusers)
-    lg.set_log(exctusers)
-    lg.set_log("Fin Backup FS Usuarios")
-    lg.write_log()
-
-    lg.set_log("Comienzo Backup FS Grupos")
-    #bkp.setconfig(cnf.bkpgroups)
-    exctgroups = backapear(cnf.bkpgroups)
-    lg.set_log(exctgroups)
-    lg.set_log("Fin Backup FS Grupos")
-    lg.write_log()
-
-    mail.set_message(lg.get_log())
+    backapear(cnf.bkpusers, lg)
+    backapear(cnf.bkpgroups, lg)
     
-    if not mail.send():
-        lg.set_log("No se pudo enviar el email")
-        lg.write_log()
+    mail.set_message(lg.get_log())    
+    a, msg = mail.send()
+
+    if not a:
+        lg.set_log(msg)
+        
+    lg.write_log()

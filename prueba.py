@@ -1,13 +1,38 @@
-salida = None
-delimiter = '<br>'
+class miobjeto:
+    mivar = None
+    otra = None
 
-with open("logs/dumplog-20230505-1328.txt", "r") as f:
-    file = f.readlines()
-    salida = delimiter.join(file)
+    def __init__(self) -> None:
+        pass
 
-htmlstr = "<div>"
-htmlstr += delimiter.join(salida.split("\\n"))
-htmlstr += "</div>"
+def mifuncion(vobj):
+    vobj.mivar = "A verga"
+    print(vobj)
 
-with open("logs/salida.html", "+a") as h:
-    h.write(htmlstr)
+ob = miobjeto()
+
+print(ob)
+
+mifuncion(ob)
+
+print(ob.mivar)
+
+    
+
+
+
+
+#--------------------------------------------------------
+#salida = None
+#delimiter = '<br>'
+
+#with open("logs/dumplog-20230505-1328.txt", "r") as f:
+#    file = f.readlines()
+#    salida = delimiter.join(file)
+
+#htmlstr = "<div>"
+#htmlstr += delimiter.join(salida.split("\\n"))
+#htmlstr += "</div>"
+
+#with open("logs/salida.html", "+a") as h:
+#    h.write(htmlstr)

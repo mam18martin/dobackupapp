@@ -19,14 +19,14 @@ class Off365SendMail():
         self.email.attach(MIMEText(msg, "html"))
         self.email_string = self.email.as_string()
         
-    def send(self)-> bool:
+    def send(self):
         try:
             self.smtp = smtplib.SMTP(self.conf.server, self.conf.port)
             self.smtp.starttls()
             self.smtp.login(self.conf.sender, self.conf.senderpass)
             self.smtp.sendmail(self.conf.sender, self.conf.recipient, self.email_string)
             self.smtp.quit()   
-        except:
-            return False
+        except Exception as error:
+            return False, error
     
-        return True
+        return True, "Email enviado con exito"

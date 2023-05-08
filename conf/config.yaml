@@ -7,12 +7,14 @@ smtpconf:
     subject: "Informe Backup File Sever - "
 
 bkpusers:
+    title: "Backup Archivos de Usuarios del File Server"
     origin: "/mnt/fsusr/"
     destination: "/mnt/sfsbackup/backup/dominio/fileserver/usuarios/"
     folder: "ultimobk/"
     options: "--force -avh -x --no-X --no-p --no-o --no-g --ignore-errors --delete --delete-excluded --backup --backup-dir="
 
 bkpgroups:
+    title: "Backup Archivos de Grupos del File Server"
     origin: "/mnt/fsgrp/"
     destination: "/mnt/sfsbackup/backup/dominio/fileserver/grupos/"
     folder: "ultimobk/"
