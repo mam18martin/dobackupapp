@@ -1,0 +1,984 @@
+20230509[11:47:59] -- Backup Archivos de Usuarios del File Server 
+20230509[12:21:53] -- sending incremental file list
+./
+deleting abarrera/ReportesCompensa_8AY0_220310.zip
+deleting abarrera/ReportesCompensa_8AC9_220311.zip
+deleting abarrera/ReportesCompensa_8AC9_220310.zip
+abarrera/
+abarrera/00000061_20230501_8258844 (1).tar.gz
+abarrera/00000061_20230501_8258844.tar.gz
+abarrera/00000061_20230502_8477996 (1).tar.gz
+abarrera/00000061_20230502_8477996.tar.gz
+abarrera/00000061_20230506_5338998_1.xls
+abarrera/00000061_20230506_5338998_2.htm
+abarrera/04-05 AL 05-05.pdf
+abarrera/05020000_Jueves (1).zip
+abarrera/05020000_Jueves.zip
+abarrera/05020000_Martes.zip
+abarrera/05020000_Miercoles.zip
+abarrera/05020000_Viernes.zip
+abarrera/06-B-0008-04658424.pdf
+abarrera/06-B-0008-04659161.pdf
+abarrera/06-B-0008-04659161.zip
+abarrera/06-B-0008-04660850.pdf
+abarrera/06-B-0008-04661447.pdf
+abarrera/06-B-0008-04661447.zip
+abarrera/230G0314.ZIP
+abarrera/230G0421.ZIP
+abarrera/230G0514.ZIP
+abarrera/25042704.702
+abarrera/25042704A.TXT
+abarrera/26042704.702
+abarrera/26042704A.TXT
+abarrera/ALVAREZ.pdf
+abarrera/Anexo_ActualizaciónImpositiva_EEEE.xlsx
+abarrera/COM_EMP_395 (1).doc
+abarrera/COM_EMP_395.doc
+abarrera/CR050405.TXT
+abarrera/CREINCSA.pdf
+abarrera/D52676.pdf
+abarrera/Listado de Pagos.xlsx
+abarrera/OPAGO (1).txt
+abarrera/OPAGO (2).txt
+abarrera/OPAGO (3).txt
+abarrera/OPAGO (4).txt
+abarrera/OPAGO (5).txt
+abarrera/OPAGO (6).txt
+abarrera/OPAGO (7).txt
+abarrera/OPAGO (8).txt
+abarrera/OPAGO (9).txt
+abarrera/OPAGO.txt
+abarrera/ROJAS.pdf
+abarrera/TORRES.pdf
+abarrera/cob2544.040523
+abarrera/creminio.pdf
+abarrera/dminio.pdf
+abarrera/downloadENT0230.zip
+abarrera/financiarSaldo.pdf
+abarrera/pa123yfz.pdf
+abarrera/pagos viv muni.zip
+abarrera/rafam0405.pdf
+abarrera/rafam040523.pdf
+abarrera/recaud0405.pdf
+abarrera/recaud040523.pdf
+abarrera/reporte (1).pdf
+abarrera/reporte.pdf
+abarrera/reserve-release-625580469-2023-05-07-001944.xlsx
+abarrera/reserve-release-625580469-2023-05-08-011953.xlsx
+abianchi/
+abianchi/SKMBT_28323050813350.pdf
+acorda/
+acorda/SKMBT_28323050811160.pdf
+acorda/SKMBT_28323050811161.pdf
+acoronel/
+acoronel/17451.pdf
+acoronel/35342.pdf
+acoronel/37570.pdf
+acoronel/37609.pdf
+acoronel/38112 (2).pdf
+acoronel/38128.pdf
+acoronel/39984.pdf
+acoronel/40401.pdf
+acoronel/40471.pdf
+acoronel/40999.pdf
+acoronel/41007.pdf
+acoronel/41055.pdf
+acoronel/42745.pdf
+acoronel/43194.pdf
+acoronel/44494.pdf
+acoronel/44781.pdf
+acoronel/44899.pdf
+acoronel/44979.pdf
+acoronel/44991.pdf
+acoronel/46021.pdf
+acoronel/46023.pdf
+acoronel/46058.pdf
+acoronel/46286.pdf
+acoronel/46520.pdf
+acoronel/46613.pdf
+acoronel/47154.pdf
+acoronel/47403.pdf
+acoronel/47429.pdf
+acoronel/47446.pdf
+acoronel/47502.pdf
+acoronel/47524.pdf
+acoronel/47590.pdf
+acoronel/47591.pdf
+acoronel/47601.pdf
+acoronel/47605.pdf
+acoronel/47667.pdf
+acoronel/47677.pdf
+acoronel/47685.pdf
+acoronel/47693.pdf
+acoronel/48931.pdf
+acoronel/49274.pdf
+acoronel/50178.pdf
+acoronel/50209.pdf
+acoronel/50218.pdf
+acoronel/50235.pdf
+adominguez/
+adominguez/SKM_C65801091521570.pdf
+adominguez/SKM_C65801091521571.pdf
+adominguez/SKM_C65801091521580.pdf
+deleting aleani/SKMBT_28323050515160.pdf
+deleting aleani/SKMBT_28323050515060.pdf
+aggomes/
+aggomes/SKM_C554e23050813010.pdf
+agiura/
+agiura/CONTROL DE HORAS EXTRAS.xlsx
+aleani/
+aleani/COMP.pdf
+aleani/COMPARACION.pdf
+deleting asuñigabertolez/aysa 4.pdf
+deleting asuñigabertolez/aysa 3.pdf
+deleting asuñigabertolez/aysa 2.pdf
+deleting asuñigabertolez/aysa 1.pdf
+deleting bbrazi/SKMBT_28323050510460.pdf
+deleting bbrazi/SKMBT_28323050510401.pdf
+deleting bbrazi/SKMBT_28323050510400.pdf
+deleting bbrazi/SKMBT_28323050416380.pdf
+deleting bbrazi/SKMBT_28323050413341.pdf
+deleting bbrazi/SKMBT_28323050413340.pdf
+deleting bbrazi/SKMBT_28323050413250.pdf
+deleting bbrazi/SKMBT_28323050412571.pdf
+deleting bbrazi/SKMBT_28323050412570.pdf
+deleting bbrazi/SKMBT_28323050310232.pdf
+deleting bbrazi/SKMBT_28323050310231.pdf
+deleting bbrazi/SKMBT_28323050310230.pdf
+deleting bbrazi/SKMBT_28323042817320.pdf
+deleting bbrazi/SKMBT_28323042817300.pdf
+deleting bbrazi/SKMBT_28323042816270.pdf
+deleting bbrazi/SKMBT_28323042813250.pdf
+deleting bbrazi/SKMBT_28323042813120.pdf
+deleting bbrazi/SKMBT_28323042812131.pdf
+deleting bbrazi/SKMBT_28323042812130.pdf
+deleting bbrazi/SKMBT_28323042812070.pdf
+deleting bbrazi/SKMBT_28323042812030.pdf
+deleting bbrazi/SKMBT_28323042809540.pdf
+deleting bbrazi/SKMBT_28323042809530.pdf
+deleting bbrazi/SKMBT_28323042715211.pdf
+deleting bbrazi/SKMBT_28323042715210.pdf
+deleting bbrazi/SKMBT_28323042713501.pdf
+deleting bbrazi/SKMBT_28323042712570.pdf
+deleting bbrazi/SKMBT_28323042712170.pdf
+deleting bbrazi/SKMBT_28323042711591.pdf
+deleting bbrazi/SKMBT_28323042711590.pdf
+deleting bbrazi/SKMBT_28323042016400.pdf
+deleting bbrazi/SKMBT_28323042011301.pdf
+deleting bbrazi/SKMBT_28323042011300.pdf
+deleting bbrazi/SKMBT_28323042011110.pdf
+deleting bbrazi/SKMBT_28323042011021.pdf
+deleting bbrazi/SKMBT_28323042011020.pdf
+deleting bbrazi/SKMBT_28323042010430.pdf
+deleting bbrazi/SKMBT_28323041812291.pdf
+deleting bbrazi/SKMBT_28323041812290.pdf
+deleting bbrazi/SKMBT_28323041713440.pdf
+deleting bbrazi/SKMBT_28323041713112.pdf
+deleting bbrazi/SKMBT_28323041713111.pdf
+deleting bbrazi/SKMBT_28323041712540.pdf
+deleting bbrazi/SKMBT_28323041712260.pdf
+deleting bbrazi/SKMBT_28323041712140.pdf
+deleting bbrazi/SKMBT_28323041710570.pdf
+deleting bbrazi/SKMBT_28323041414370.pdf
+deleting bbrazi/SKMBT_28323041414281.pdf
+deleting bbrazi/SKMBT_28323041414280.pdf
+deleting bbrazi/SKMBT_28323041414211.pdf
+deleting bbrazi/SKMBT_28323041414210.pdf
+deleting bbrazi/SKMBT_28323041414070.pdf
+deleting bbrazi/SKMBT_28323041315160.pdf
+deleting bbrazi/SKMBT_28323041315121.pdf
+deleting bbrazi/SKMBT_28323041313131.pdf
+deleting bbrazi/SKMBT_28323041313130.pdf
+deleting bbrazi/SKMBT_28323041313010.pdf
+deleting bbrazi/SKMBT_28323041312531.pdf
+deleting bbrazi/SKMBT_28323041312530.pdf
+deleting bbrazi/SKMBT_28323041312000.pdf
+deleting bbrazi/SKMBT_28323041311450.pdf
+deleting bbrazi/SKMBT_28323041311441.pdf
+deleting bbrazi/SKMBT_28323041311440.pdf
+deleting bbrazi/SKMBT_28323041311260.pdf
+deleting bbrazi/SKMBT_28323041310560.pdf
+deleting bbrazi/SKMBT_28323041310160.pdf
+deleting bbrazi/SKMBT_28323041310130.pdf
+deleting bbrazi/SKMBT_28323041216550.pdf
+deleting bbrazi/SKMBT_28323041216540.pdf
+deleting bbrazi/SKMBT_28323041216431.pdf
+deleting bbrazi/SKMBT_28323041216430.pdf
+deleting bbrazi/SKMBT_28323041214341.pdf
+deleting bbrazi/SKMBT_28323041214340.pdf
+deleting bbrazi/SKMBT_28323041214330.pdf
+deleting bbrazi/SKMBT_28323041213390.pdf
+deleting bbrazi/SKMBT_28323041213320.pdf
+deleting bbrazi/SKMBT_28323041213241.pdf
+deleting bbrazi/SKMBT_28323041213180.pdf
+deleting bbrazi/SKMBT_28323041213161.pdf
+deleting bbrazi/SKMBT_28323041213160.pdf
+deleting bbrazi/SKMBT_28323041213060.pdf
+deleting bbrazi/SKMBT_28323041213020.pdf
+deleting bbrazi/SKMBT_28323041212560.pdf
+deleting bbrazi/SKMBT_28323041212320.pdf
+deleting bbrazi/SKMBT_28323041212270.pdf
+deleting bbrazi/SKMBT_28323041212220.pdf
+deleting bbrazi/SKMBT_28323041212040.pdf
+deleting bbrazi/SKMBT_28323041211250.pdf
+deleting bbrazi/SKMBT_28323041211170.pdf
+deleting bbrazi/SKMBT_28323041211070.pdf
+deleting bbrazi/SKMBT_28323041210490.pdf
+deleting bbrazi/SKMBT_28323041209551.pdf
+deleting bbrazi/SKMBT_28323041209550.pdf
+deleting bbrazi/SKMBT_28323041116140.pdf
+deleting bbrazi/SKMBT_28323041115030.pdf
+deleting bbrazi/SKMBT_28323041115011.pdf
+deleting bbrazi/SKMBT_28323041113300.pdf
+deleting bbrazi/SKMBT_28323041112400.pdf
+deleting bbrazi/SKMBT_28323041111470.pdf
+deleting bbrazi/SKMBT_28323041111220.pdf
+deleting bbrazi/SKMBT_28323041110350.pdf
+deleting bbrazi/SKMBT_28323041017050.pdf
+deleting bbrazi/SKMBT_28323041017020.pdf
+deleting bbrazi/SKMBT_28323041017000.pdf
+deleting bbrazi/SKMBT_28323041015090.pdf
+deleting bbrazi/SKMBT_28323041014550.pdf
+deleting bbrazi/SKMBT_28323041014181.pdf
+deleting bbrazi/SKMBT_28323041014180.pdf
+deleting bbrazi/SKMBT_28323041014140.pdf
+deleting bbrazi/SKMBT_28323041014090.pdf
+deleting bbrazi/SKMBT_28323041014080.pdf
+deleting bbrazi/SKMBT_28323041013590.pdf
+deleting bbrazi/SKMBT_28323041013340.pdf
+deleting bbrazi/SKMBT_28323041012260.pdf
+deleting bbrazi/SKMBT_28323040517030.pdf
+deleting bbrazi/SKMBT_28323040517000.pdf
+deleting bbrazi/SKMBT_28323040516570.pdf
+deleting bbrazi/SKMBT_28323040516380.pdf
+deleting bbrazi/SKMBT_28323040516320.pdf
+deleting bbrazi/SKMBT_28323040516220.pdf
+deleting bbrazi/SKMBT_28323040515400.pdf
+deleting bbrazi/SKMBT_28323040515150.pdf
+deleting bbrazi/SKMBT_28323040515130.pdf
+deleting bbrazi/SKMBT_28323040513030.pdf
+deleting bbrazi/SKMBT_28323040511530.pdf
+deleting bbrazi/SKMBT_28323040510490.pdf
+deleting bbrazi/SKMBT_28323040315020.pdf
+deleting bbrazi/SKMBT_28323040314521.pdf
+deleting bbrazi/SKMBT_28323040314520.pdf
+deleting bbrazi/SKMBT_28323040313551.pdf
+deleting bbrazi/SKMBT_28323040313550.pdf
+deleting bbrazi/SKMBT_28323040313100.pdf
+deleting bbrazi/SKMBT_28323040312250.pdf
+deleting bbrazi/SKMBT_28323040312221.pdf
+deleting bbrazi/SKMBT_28323040312220.pdf
+deleting bbrazi/SKMBT_28323033016450.pdf
+deleting bbrazi/SKMBT_28323033016260.pdf
+deleting bbrazi/SKMBT_28323033013160.pdf
+deleting bbrazi/SKMBT_28323033010351.pdf
+deleting bbrazi/SKMBT_28323033009471.pdf
+deleting bbrazi/SKMBT_28323033009470.pdf
+deleting bbrazi/SKMBT_28323032809420.pdf
+deleting bbrazi/SKMBT_28323032809330.pdf
+deleting bbrazi/SKMBT_28323032717030.pdf
+deleting bbrazi/SKMBT_28323032716580.pdf
+deleting bbrazi/SKMBT_28323032716560.pdf
+deleting bbrazi/SKMBT_28323032716530.pdf
+deleting bbrazi/SKMBT_28323032716400.pdf
+deleting bbrazi/SKMBT_28323032716360.pdf
+deleting bbrazi/SKMBT_28323032714120.pdf
+deleting bbrazi/SKMBT_28323032713500.pdf
+deleting bbrazi/SKMBT_28323032713490.pdf
+deleting bbrazi/SKMBT_28323032713340.pdf
+deleting bbrazi/SKMBT_28323032713280.pdf
+deleting bbrazi/SKMBT_28323032316200.pdf
+deleting bbrazi/SKMBT_28323032316140.pdf
+deleting bbrazi/SKMBT_28323032316040.pdf
+deleting bbrazi/SKMBT_28323032315570.pdf
+deleting bbrazi/SKMBT_28323032314220.pdf
+deleting bbrazi/SKMBT_28323032312140.pdf
+deleting bbrazi/SKMBT_28323032311480.pdf
+deleting bbrazi/SKMBT_28323032311371.pdf
+deleting bbrazi/SKMBT_28323032311300.pdf
+deleting bbrazi/SKMBT_28323032310550.pdf
+deleting bbrazi/SKMBT_28323032310490.pdf
+deleting bbrazi/SKMBT_28323032310371.pdf
+deleting bbrazi/SKMBT_28323032215250.pdf
+deleting bbrazi/SKMBT_28323032115560.pdf
+deleting bbrazi/SKMBT_28323032115080.pdf
+deleting bbrazi/SKMBT_28323032115030.pdf
+deleting bbrazi/SKMBT_28323032115000.pdf
+deleting bbrazi/SKMBT_28323032114490.pdf
+deleting bbrazi/SKMBT_28323032114410.pdf
+deleting bbrazi/SKMBT_28323032114250.pdf
+deleting bbrazi/SKMBT_28323032114180.pdf
+deleting bbrazi/SKMBT_28323032014010.pdf
+deleting bbrazi/SKMBT_28323032013530.pdf
+deleting bbrazi/SKMBT_28323032013460.pdf
+deleting bbrazi/SKMBT_28323032013280.pdf
+deleting bbrazi/SKMBT_28323032013190.pdf
+deleting bbrazi/SKMBT_28323032013120.pdf
+deleting bbrazi/SKMBT_28323032012500.pdf
+deleting bbrazi/SKMBT_28323032012370.pdf
+deleting bbrazi/SKMBT_28323032012300.pdf
+deleting bbrazi/SKMBT_28323032011400.pdf
+deleting bbrazi/SKMBT_28323032011380.pdf
+asuñigabertolez/
+asuñigabertolez/105039 08-05-2023.pdf
+asuñigabertolez/Edenor.pdf
+asuñigabertolez/Escritura.pdf
+asuñigabertolez/SKMBT_28323050811550.pdf
+asuñigabertolez/SKMBT_28323050812260.pdf
+asuñigabertolez/seguros deportes 08-05-2023.pdf
+bbrazi/
+bbrazi/SKMBT_28323050816100.pdf
+bbrazi/SKMBT_28323050910390.pdf
+bbrazi/SKMBT_28323050911510.pdf
+bbrazi/SKMBT_28323050911511.pdf
+bbrazi/SKMBT_28323050911512.pdf
+bbrazi/SKMBT_28323050912050.pdf
+bbrazi/SKMBT_28323050912051.pdf
+bbrazi/SKMBT_28323050912410.pdf
+bcionco/
+bcionco/SKMBT_28323050811220.pdf
+bcionco/SKMBT_28323050815330.pdf
+bcionco/constancias 87310.pdf
+bcionco/constancias 87363.pdf
+bcionco/desgloses y constancias 87063.pdf
+bcionco/desgloses y constancias 87357.pdf
+bcionco/desgloses y constancias 87401.pdf
+bcionco/pagos 87357.pdf
+bcionco/planillas 87357.pdf
+beiroa/
+beiroa/SKMBT_28323050811450.pdf
+beiroa/SKMBT_28323050812050.pdf
+beiroa/SKMBT_28323050812070.pdf
+beiroa/SKMBT_28323050910030.pdf
+bgiorgetta/
+bgiorgetta/escaneo/
+bmaffia/SKM_C554e23050909321.pdf
+bnubile/
+bnubile/SKM_284e23050911040.pdf
+bnubile/SKM_C554e23050813180.pdf
+contencioso2/
+contencioso2/DESPACHO EVOLUCION.pdf
+contencioso2/EVOLUCION.pdf
+crivas/
+crivas/SKM_284e23050813290.pdf
+crivas/SKM_284e23050813291.pdf
+deleting cruth/SKMBT_28323050314440.pdf
+deleting cruth/SKMBT_28323050314130.pdf
+deleting cruth/SKMBT_28323050314110.pdf
+deleting cruth/SKMBT_28323050313490.pdf
+deleting cruth/SKMBT_28323050313300.pdf
+deleting cruth/SKMBT_28323050313250.pdf
+deleting cruth/SKMBT_28323050312380.pdf
+deleting cruth/SKMBT_28323050312360.pdf
+deleting cruth/SKMBT_28323050312340.pdf
+deleting cruth/SKMBT_28323050312330.pdf
+deleting cruth/SKMBT_28323050312320.pdf
+deleting cruth/SKMBT_28323050312290.pdf
+deleting cruth/SKMBT_28323050312281.pdf
+deleting cruth/SKMBT_28323050312192.pdf
+deleting cruth/SKMBT_28323050308300.pdf
+deleting cruth/SKMBT_28323042812100.pdf
+deleting cursino/SKMBT_28323050216470.pdf
+deleting cursino/ORDEN DE PGO NRO. 2324.pdf
+deleting cursino/ORDEN DE PAGO NRO. 404.pdf
+deleting cursino/ORDEN DE PAGO NRO. 2789.pdf
+deleting cursino/ORDEN DE PAGO NRO. 2783.pdf
+deleting cursino/ORDEN DE PAGO NRO. 2321.pdf
+deleting cursino/ORDEN DE PAGO NRO. 17595.pdf
+deleting cursino/ORDEN DE PAGO NRO. 16285.pdf
+deleting cursino/EXPTE. NRO. 106790.pdf
+deleting cursino/EXPTE. NRO. 106101.pdf
+deleting cursino/EXPTE.  NRO. 106815.pdf
+deleting cursino/EXPTE NRO. 105859.pdf
+cruth/
+cursino/
+cursino/EXPTE. NRO. 105892.pdf
+cursino/EXPTE. NRO. 105893.pdf
+cursino/EXPTE. NRO. 106811.pdf
+cursino/ORDEN DE PAGO NRO. 1049.pdf
+cursino/ORDEN DE PAGO NRO. 1050.pdf
+cursino/ORDEN DE PAGO NRO. 1053.pdf
+cursino/ORDEN DE PAGO NRO. 984.pdf
+cvera/
+cvera/Documentos Firmados - Faure Etapa II.pdf
+cvera/SKM_C554e23050811060.pdf
+cvera/SKM_C554e23050812320.pdf
+cvera/SKM_C554e23050814560.pdf
+cvera/SKM_C554e23050815490.pdf
+cvera/SKM_C554e23050815491.pdf
+cvera/SKM_C554e23050815500.pdf
+cvera/SKM_C554e23050815501.pdf
+cvera/SKM_C554e23050815510.pdf
+cvera/SKM_C554e23050910000.pdf
+dcampanelli/
+dcampanelli/Horas Extras.xlsx
+dcampanelli/Insumos Dicsa.xlsx
+dcampanelli/pago del mes.xlsx
+deleting dmihic/SKMBT_28323050516460.pdf
+dcampanelli/Proyecto unidades Sanitarias/
+dcampanelli/Proyecto unidades Sanitarias/Unidades Sanitarias.xlsx
+ddzevecka/
+ddzevecka/LISTADO MAYO 2023 PRIVADA DANY.xlsx
+ddzevecka/Reco deuda 2023.doc
+ddzevecka/listado privada ABRIL DANY 2023 daiana.xlsx
+ddzevecka/~$LISTADO MAYO 2023 PRIVADA DANY.xlsx
+ddzevecka/~$co deuda 2023.doc
+dmihic/
+dmihic/Fact. 3097 Arcasti.pdf
+dvillalba/
+dvillalba/SKM_C554e23050812560.pdf
+dvillalba/SKM_C554e23050812570.pdf
+dvillalba/SKM_C554e23050812571.pdf
+dvillalba/SKM_C554e23050812580.pdf
+dvillalba/SKM_C554e23050812581.pdf
+dvillalba/SKM_C554e23050812582.pdf
+dvillalba/SKM_C554e23050812583.pdf
+dvillalba/SKM_C554e23050812590.pdf
+ealfano/
+easim/Eleonora/Sumarios/
+easim/Eleonora/Sumarios/Informe para tramixx.docx
+easim/Eleonora/Sumarios/~$forme subsidio Silva Esposa e hijos.docx
+ekaddarian/
+ekaddarian/SKMBT_28323050814580.pdf
+ekaddarian/SKMBT_28323050814590.pdf
+ekaddarian/SKMBT_28323050815000.pdf
+ekaddarian/SKMBT_28323050815270.pdf
+ekaddarian/SKMBT_28323050815290.pdf
+ekaddarian/SKMBT_28323050815300.pdf
+ekaddarian/SKMBT_28323050815301.pdf
+ekaddarian/SKMBT_28323050816230.pdf
+ekaddarian/SKMBT_28323050816340.pdf
+ekaddarian/SKMBT_28323050816390.pdf
+ekaddarian/SKMBT_28323050816430.pdf
+ekaddarian/SKMBT_28323050816480.pdf
+ekaddarian/SKMBT_28323050816560.pdf
+ekaddarian/SKMBT_28323050817040.pdf
+ekaddarian/SKMBT_28323050817140.pdf
+deleting falonso/SKM_28723050515561.pdf
+deleting falonso/SKM_28723050515560.pdf
+deleting falonso/SKM_28723050515551.pdf
+deleting falonso/SKM_28723050515550.pdf
+deleting falonso/SKM_28723050515541.pdf
+deleting falonso/SKM_28723050515540.pdf
+deleting falonso/SKM_28723050311390.pdf
+falonso/
+fasprea/
+fasprea/FACTIBILIDAD JARDIN.pdf
+fcobo/
+fcobo/SKMBT_28323050910030.pdf
+fsanches/
+fsanches/SKM_284e23050813030.pdf
+fsanches/SKM_284e23050813040.pdf
+fsanches/SKM_284e23050813050.pdf
+fsanches/SKM_284e23050813060.pdf
+fsanches/SKM_284e23050813061.pdf
+fsanches/SKM_284e23050813190.pdf
+fverge/
+fverge/105637.pdf
+fverge/105660.pdf
+fverge/106402.pdf
+fverge/106403.pdf
+fverge/106583.pdf
+fverge/106741.pdf
+fverge/107250.pdf
+fverge/107450.pdf
+fverge/3697.pdf
+fverge/3766.pdf
+fverge/SKMBT_28323050913130.pdf
+gnmolina/
+gnmolina/horas extras x mes.xlsx
+gnmolina/DETALLESD LIQUI/
+gnmolina/liqudiaciones finales/liquidaciones finales/liquidaciones finales abril 2023/
+gnmolina/liqudiaciones finales/liquidaciones finales/liquidaciones finales abril 2023/liq finales jornalizados abril.xlsx
+gnmolina/liqudiaciones finales/liquidaciones finales/liquidaciones finales abril 2023/liq finales v agentes  abril.xlsx
+gnmolina/liqudiaciones finales/liquidaciones finales/liquidaciones finales abril 2023/~$liq finales v agentes  abril.xlsx
+gsanchez/
+gsanchez/Fs. 113 a 119.pdf
+gsanchez/Fs. 21.pdf
+gsanchez/Fs. 22.pdf
+gsanchez/fs. 14 a 20.pdf
+gsanchez/fs. 34.pdf
+gtraetta/
+gtraetta/SKMBT_28323050909170.pdf
+gtraetta/SKMBT_28323050909230.pdf
+gtraetta/SKMBT_28323050909240.pdf
+gtraetta/SKMBT_28323050909440.pdf
+icordoba/
+icordoba/SKM_C554e23050809200.pdf
+icordoba/SKM_C554e23050809210.pdf
+icordoba/SKM_C554e23050909110.pdf
+jardizzone/
+jardizzone/SKM_C554e23050808580.pdf
+jardizzone/SKM_C554e23050808581.pdf
+jardizzone/SKM_C554e23050808590.pdf
+jlupo/
+jlupo/SKMBT_28323050813570.pdf
+jlupo/SKMBT_28323050816130.pdf
+jlupo/SKMBT_28323050816380.pdf
+jlupo/SKMBT_28323050911000.pdf
+jlupo/MODELO DE NOTAS 2022/
+jlupo/NOTAS 2022/
+jmakarevicius/
+jmakarevicius/SKM_C65801091519540.pdf
+jmakarevicius/SKM_C65801091520051.pdf
+deleting jorobiejko/expte. 109949.pdf
+deleting jorobiejko/expte. 109850.pdf
+deleting jorobiejko/expte. 109847.pdf
+deleting jorobiejko/expte. 109843.pdf
+deleting jorobiejko/expte. 109763.pdf
+deleting jorobiejko/expte. 109627.pdf
+deleting jorobiejko/EXPTE. 99555 REM. 1290.pdf
+jorobiejko/
+jorobiejko/expte. 108451.pdf
+jparada/
+jparada/SKM_C554e23050813140.pdf
+jromero/
+jyanez/
+jyanez/SKM_284e23050911010.pdf
+jyanez/SKM_C554e23050814060.pdf
+jyanez/SKM_C554e23050814070.pdf
+jyanez/SKM_C554e23050814071.pdf
+jyanez/SKM_C554e23050814072.pdf
+ldiazrondan/
+ldiazrondan/SKM_284e23042010370.pdf
+ldiazrondan/Thumbs.db
+ldiazrondan/~~$SKM_284e23042010370.pdf
+ldominguezruiz/
+ldominguezruiz/SKMBT_28323050809060.pdf
+ldominguezruiz/SKMBT_28323050811060.pdf
+ldominguezruiz/SKMBT_28323050814090.pdf
+ldominguezruiz/proyecto.pdf
+lfarid/
+lfarid/SKM_C554e23050909240.pdf
+lgaona/
+lgaona/SKM_C30823050808250.pdf
+lgaona/SKM_C30823050814220.pdf
+lgaona/SKM_C30823050814230.pdf
+lgaona/SKM_C30823050814240.pdf
+lgaona/SKM_C30823050814270.pdf
+lmoreira/
+lmoreira/105018.pdf
+lmoreira/2783.pdf
+lmoreira/3036.pdf
+lmoreira/3037.pdf
+lmoreira/3038.pdf
+lmoreira/SKMBT_28323050813130.pdf
+lmoreira/SKMBT_28323050813131.pdf
+lmoreira/SKMBT_28323050813151.pdf
+lordonez/
+lordonez/SKM_C65801091500480.pdf
+lordonez/SKM_C65801091501480.pdf
+lordonez/SKM_C65801091501481.pdf
+lordonez/SKM_C65801091501490.pdf
+lordonez/SKM_C65801091501491.pdf
+lordonez/SKM_C65801091501492.pdf
+lordonez/SKM_C65801091501500.pdf
+lordonez/SKM_C65801091502410.pdf
+lponce/
+lraposo/
+lraposo/2999.pdf
+lraposo/3030.pdf
+lraposo/3039.pdf
+lraposo/3040.pdf
+lraposo/3042.pdf
+lraposo/3043.pdf
+lraposo/3044.pdf
+lraposo/3045.pdf
+lraposo/3046.pdf
+lraposo/3047.pdf
+lraposo/3048.pdf
+lraposo/3049.pdf
+lraposo/3050.pdf
+lraposo/3051.pdf
+lraposo/3052.pdf
+lraposo/PRIVADA 248.pdf
+lraposo/PRIVADA 256.pdf
+lraposo/PRIVADA 257.pdf
+lraposo/PRIVADA 258.pdf
+lraposo/PRIVADA 260.pdf
+lraposo/PRIVADA 261.pdf
+lraposo/PRIVADA 263.pdf
+lraposo/PRIVADA 265.pdf
+lraposo/PRIVADA 266.pdf
+lraposo/PRIVADA 267.pdf
+lraposo/PRIVADA 268.pdf
+lraposo/PRIVADA 269.pdf
+lraposo/SKMBT_28323050813172.pdf
+lraposo/SKMBT_28323050813173.pdf
+lraposo/SKMBT_28323050813174.pdf
+lraposo/SKMBT_28323050813175.pdf
+lraposo/SKMBT_28323050813176.pdf
+lraposo/SKMBT_28323050911360.pdf
+lraposo/SKMBT_28323050911400.pdf
+lraposo/SKMBT_28323050911410.pdf
+lraposo/SKMBT_28323050911430.pdf
+deleting mcabral/9501-2013 nota.pdf
+deleting mcabral/9501-2013 adjunto.pdf
+deleting mcabral/85782-2023 NOTA.pdf
+deleting mcabral/12742-1999 nota.pdf
+deleting mcabral/109758-2023 nota.pdf
+mbenitez/
+mbenitez/SKMBT_28323050809430.pdf
+mbenitez/SKMBT_28323050812280.pdf
+mbenitez/SKMBT_28323050911000.pdf
+mbenitez/SKMBT_28323050911001.pdf
+mbenitez/SKMBT_28323050911031.pdf
+mbenitez/SKMBT_28323050911032.pdf
+mbenitez/SKMBT_28323050911130.pdf
+mcabral/
+mcabral/78201-2022 nota.pdf
+mcataffo/
+mcataffo/SKM_28723050810060.pdf
+mcataffo/SKM_28723050813000.pdf
+mcataffo/SKM_28723050814180.pdf
+mellauri/
+mellauri/SKMBT_28323050810390.pdf
+mellauri/SKMBT_28323050810400.pdf
+mellauri/SKMBT_28323050810401.pdf
+mellauri/SKMBT_28323050810410.pdf
+mellauri/SKMBT_28323050810420.pdf
+mellauri/SKMBT_28323050810421.pdf
+mellauri/SKMBT_28323050810430.pdf
+mellauri/SKMBT_28323050810440.pdf
+mgiglesias/
+mgiglesias/SKMBT_28323050910030.pdf
+mgiglesias/SKMBT_28323050910060.pdf
+mlmartinez/
+mlmartinez/ZAPPALA.doc
+deleting mramos/Nueva carpeta/SKM_C554e23041711110.pdf
+deleting mramos/Nueva carpeta/SKM_284e23041814540.pdf
+deleting mramos/Nueva carpeta/INFORME 197.pdf
+deleting mramos/Nueva carpeta/AUDITORIA 9,53,30,11 A Y 8A.pdf
+deleting mramos/Nueva carpeta/AUDITORIA 37,44,98,24,12.pdf
+deleting mramos/Nueva carpeta/AUDITORIA 25,16,72,11M Y 36.pdf
+deleting mramos/Nueva carpeta/
+deleting mramos/SKM_C554e23042711250.pdf
+deleting mramos/SKM_C554e23042711170.pdf
+deleting mramos/SKM_C554e23041913030.pdf
+deleting mramos/38006-2016 nota.pdf
+deleting mramos/38006-2016 adj.pdf
+deleting mromaniuk/60-23.pdf
+deleting mromaniuk/3017-23.pdf
+deleting mromaniuk/3016-23.pdf
+deleting mromaniuk/3015-23.pdf
+deleting mromaniuk/3014-23.pdf
+deleting mromaniuk/3013-23.pdf
+deleting mromaniuk/3012-23.pdf
+deleting mromaniuk/3011-23.pdf
+deleting mromaniuk/3010-23.pdf
+deleting mromaniuk/3009-23.pdf
+deleting mromero/tabla servicios generales/~$eva CEDULA NOTIFICACION de eximicion jubilados para disposicion COLECTIVA.doc
+deleting mromero/tabla servicios generales/tabla institutos.xlsx
+deleting mromero/tabla servicios generales/nueva CEDULA NOTIFICACION de eximicion jubilados para disposicion COLECTIVA.doc
+deleting mromero/tabla servicios generales/Nueva tabla notificados.xlsx
+deleting mromero/tabla servicios generales/Copia de notificados al 26 de mayo.xlsx
+deleting mromero/tabla servicios generales/CEDULA NOTIFICACION institutos  para disposicion COLECTIVA.doc
+deleting mromero/tabla servicios generales/2-101251.xlsx
+deleting mromero/tabla servicios generales/
+deleting mromero/salones rechazados/2-89612-2021 informe rechazo.doc
+deleting mromero/salones rechazados/2-89612-2021 disposicion rechazo.doc
+deleting mromero/salones rechazados/2-89576-2021 informe rechazo.doc
+deleting mromero/salones rechazados/2-59576-2021 disposicion rechazo.doc
+deleting mromero/salones rechazados/
+deleting mromero/notificar salones de fiestas/~$dula notificacion sALONES DE FIESTAS.doc
+deleting mromero/notificar salones de fiestas/Cedula notificacion sALONES DE FIESTAS.doc
+deleting mromero/notificar salones de fiestas/
+deleting mromero/Notificar gastronomicos/~$dula notificacion gastronomicos.doc
+deleting mromero/Notificar gastronomicos/~$dula notificacion gastronomicos rechazo.doc
+deleting mromero/Notificar gastronomicos/Tabla notificacion sin credito.xlsx
+deleting mromero/Notificar gastronomicos/Cedula notificacion gastronomicos.doc
+deleting mromero/Notificar gastronomicos/Cedula notificacion gastronomicos rechazo.doc
+deleting mromero/Notificar gastronomicos/
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 643.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 623.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 444.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10298.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10278.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10251.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10247.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10240.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/Situacion especial 10274.xlsx
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Renovaciones masivas/
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/modelo de renovaciones JUBILADOS.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/MODELO DE INFORME JUBILADOS.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Eximicion 2020 renovaciones masivas.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/Eximicion 2020 renovaciones masivas 2-73764-2020.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-74186-2020 dispos.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73764-2020 INFORME.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73525-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73525-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73522-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73522-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73496-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73496-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73454-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73454-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73404-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73404-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73352-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73352-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73320-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73320-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73266-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73266-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73240-2020 informe.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/2-73240-2020 disposicion.doc
+deleting mromero/Discapacidad Patente/Renovaciones Eximiciones 2020/
+deleting mromero/Discapacidad Patente/~$DULA NOTIFICACION de eximicion PATENTE  para disposicion COLECTIVA.doc
+deleting mromero/Discapacidad Patente/tabla patente 2-93495.xlsx
+deleting mromero/Discapacidad Patente/Tabla notificaciones Patentes 2020.xlsx
+deleting mromero/Discapacidad Patente/Copia de excel al 26 de mayo 1.xlsx
+deleting mromero/Discapacidad Patente/CEDULA NOTIFICACION de eximicion PATENTE  para disposicion COLECTIVA.doc
+deleting mromero/Discapacidad Patente/
+deleting mromero/solicitud desestimiento sumario por encontrar el expte.docx
+deleting mromero/pedido de sello automatico.doc
+deleting mromero/pedido de epediente picheto.doc
+deleting mromero/notificar Ordenanza por mesa.doc
+deleting mromero/nota tipo para solicitar condonacion por Ordenanza.docx
+deleting mromero/nota instituciones.docx
+deleting mromero/logo colegio.docx
+deleting mromero/licencia por vacaciones.docx
+deleting mromero/lactancia.doc
+deleting mromero/credencial inspectores.docx
+deleting mromero/cedula notificacion auto.docx
+deleting mromero/cambio de horario.docx
+deleting mromero/Situaciones Especiales jubilados al 10-03.xlsx
+deleting mromero/Proyecto de Ordenanza exp.doc
+deleting mromero/Modelo Disposicion baja de legajo por fiscalizacion.docx
+deleting mromero/Misiones y funciones dgt 2020.docx
+deleting mromero/MODELO NOTIFICACION JUBILADOS QUE NO SE PRESENTARON A RENOVAR.docx
+deleting mromero/MISIONES Y FUNCIONES 2020.docx
+deleting mromero/LISTADO BIENES ACTUALIZADO MAYO 2021.xls
+deleting mromero/Inventario bienes 2019.docx
+deleting mromero/Inventario Direccion General Tributaria.xlsx
+deleting mromero/DNI BAUTI.pdf
+deleting mromero/Copia de Situaciones_Especiales_prorroga por la anual.xls
+deleting mromero/Copia de CUADRO DE ORDENANZAS Condonacion y eximicion.xlsx
+deleting mromero/Contribuyentes que solicitaron los beneficios de la Ordenanza al mes de Agosto.xlsx
+deleting mromero/Condonacion mesa - legales.doc
+deleting mromero/2-80922-2020 bomberos disposicion.docx
+mramos/
+mramos/AUDITORIA.pdf
+mramos/NOTA CAMBIO DE CUENTA.pdf
+mramos/NOTA SOLICITUD MUNICIPALIDAD.pdf
+mramos/SKM_C554e23050910170.pdf
+mrego/
+mrego/presuesto roca y estevez bomba.pdf
+mromaniuk/
+mromaniuk/3064-23.pdf
+mromaniuk/3065-23.pdf
+mromaniuk/3066-23.pdf
+mromaniuk/3067-23.pdf
+mromaniuk/3068-23.pdf
+mromaniuk/3069-23.pdf
+mromaniuk/63-23.pdf
+mromero/
+mromero/Año 2023/
+mromero/Año 2023/patente que vienen de arba.xlsx
+mromero/Año 2023/RESERVA/
+mromero/Año 2023/RESERVA/Emisión cuota 5 Zona Reserva NO DISTRIBUIR.xlsx
+mromero/Año 2023/RESERVA/ZONA DE RESERVA COMPLETO (2)(1).xlsx
+mromero/Disposicion 25 años autos/
+mromero/Disposicion 25 años autos/Disposición vehículos 25 años - eximiciones.doc
+mromero/Disposicion 25 años autos/cambio de horario.docx
+mromero/Disposicion 25 años autos/disposicion mas de 25 años autos.doc
+mromero/EXIMICION servicios generales/
+mromero/EXIMICION servicios generales/2-101251.xlsx
+mromero/EXIMICION servicios generales/CEDULA NOTIFICACION institutos  para disposicion COLECTIVA.doc
+mromero/EXIMICION servicios generales/Copia de notificados al 26 de mayo.xlsx
+mromero/EXIMICION servicios generales/MODELO NOTIFICACION JUBILADOS QUE NO SE PRESENTARON A RENOVAR.docx
+mromero/EXIMICION servicios generales/Nueva tabla notificados.xlsx
+mromero/EXIMICION servicios generales/nueva CEDULA NOTIFICACION de eximicion jubilados para disposicion COLECTIVA.doc
+mromero/EXIMICION servicios generales/tabla institutos.xlsx
+mromero/EXIMICION servicios generales/~$eva CEDULA NOTIFICACION de eximicion jubilados para disposicion COLECTIVA.doc
+mromero/HCD/
+mromero/HCD/Condonacion mesa - legales.doc
+mromero/HCD/Proyecto de Ordenanza exp.doc
+mromero/HCD/nota tipo para solicitar condonacion por Ordenanza.docx
+mromero/HCD/notificar Ordenanza por mesa.doc
+mromero/Notas - Personal- compras- inventario/
+mromero/Notas - Personal- compras- inventario/Copia de Situaciones_Especiales_prorroga por la anual.xls
+mromero/Notas - Personal- compras- inventario/Inventario Direccion General Tributaria.xlsx
+mromero/Notas - Personal- compras- inventario/Inventario bienes 2019.docx
+mromero/Notas - Personal- compras- inventario/MISIONES Y FUNCIONES 2020.docx
+mromero/Notas - Personal- compras- inventario/Misiones y funciones dgt 2020.docx
+mromero/Notas - Personal- compras- inventario/credencial inspectores.docx
+mromero/Notas - Personal- compras- inventario/lactancia.doc
+mromero/Notas - Personal- compras- inventario/licencia por vacaciones.docx
+mromero/Notas - Personal- compras- inventario/logo colegio.docx
+mromero/Notas - Personal- compras- inventario/nota instituciones.docx
+mromero/Notas - Personal- compras- inventario/pedido de epediente picheto.doc
+mromero/Notas - Personal- compras- inventario/pedido de sello automatico.doc
+mromero/Notas - Personal- compras- inventario/solicitud desestimiento sumario por encontrar el expte.docx
+mromero/Notas/
+mromero/PATENTE/
+mromero/PATENTE/2-80922-2020 bomberos disposicion.docx
+mromero/PATENTE/CEDULA NOTIFICACION de eximicion PATENTE  para disposicion COLECTIVA.doc
+mromero/PATENTE/Contribuyentes que solicitaron los beneficios de la Ordenanza al mes de Agosto.xlsx
+mromero/PATENTE/Copia de excel al 26 de mayo 1.xlsx
+mromero/PATENTE/Disposicion radicacion baja en otro municipio.doc
+mromero/PATENTE/Tabla notificaciones Patentes 2020.xlsx
+mromero/PATENTE/cedula notificacion auto.docx
+mromero/PATENTE/tabla patente 2-93495.xlsx
+mromero/PATENTE/~$DULA NOTIFICACION de eximicion PATENTE  para disposicion COLECTIVA.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73240-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73240-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73266-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73266-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73320-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73320-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73352-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73352-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73404-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73404-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73454-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73454-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73496-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73496-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73522-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73522-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73525-2020 disposicion.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73525-2020 informe.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-73764-2020 INFORME.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/2-74186-2020 dispos.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/Eximicion 2020 renovaciones masivas 2-73764-2020.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/Eximicion 2020 renovaciones masivas.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/MODELO DE INFORME JUBILADOS.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/modelo de renovaciones JUBILADOS.doc
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situacion especial 10274.xlsx
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10240.xlsx
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10247.xlsx
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10251.xlsx
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10278.xlsx
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 10298.xlsx
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 444.xlsx
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 623.xlsx
+mromero/PATENTE/Renovaciones Eximiciones 2020/Renovaciones masivas/Situaciones Especiales 643.xlsx
+mromero/Pandemia/
+mromero/Pandemia/Copia de CUADRO DE ORDENANZAS Condonacion y eximicion.xlsx
+mromero/Pandemia/Notificar gastronomicos/
+mromero/Pandemia/Notificar gastronomicos/Cedula notificacion gastronomicos rechazo.doc
+mromero/Pandemia/Notificar gastronomicos/Cedula notificacion gastronomicos.doc
+mromero/Pandemia/Notificar gastronomicos/Tabla notificacion sin credito.xlsx
+mromero/Pandemia/Notificar gastronomicos/~$dula notificacion gastronomicos rechazo.doc
+mromero/Pandemia/Notificar gastronomicos/~$dula notificacion gastronomicos.doc
+mromero/Pandemia/notificar salones de fiestas/
+mromero/Pandemia/notificar salones de fiestas/Cedula notificacion sALONES DE FIESTAS.doc
+mromero/Pandemia/notificar salones de fiestas/~$dula notificacion sALONES DE FIESTAS.doc
+mromero/Pandemia/salones rechazados/
+mromero/Pandemia/salones rechazados/2-59576-2021 disposicion rechazo.doc
+mromero/Pandemia/salones rechazados/2-89576-2021 informe rechazo.doc
+mromero/Pandemia/salones rechazados/2-89612-2021 disposicion rechazo.doc
+mromero/Pandemia/salones rechazados/2-89612-2021 informe rechazo.doc
+nbrazi/
+nbrazi/SKMBT_28323050810390.pdf
+ncruz/
+nduzac/
+nduzac/SKMBT_28323050911080.pdf
+nduzac/SKMBT_28323050911100.pdf
+nduzac/SKMBT_28323050911110.pdf
+nduzac/SKMBT_28323050911120.pdf
+nduzac/SKMBT_28323050911130.pdf
+nduzac/SKMBT_28323050911140.pdf
+nduzac/SKMBT_28323050911210.pdf
+nduzac/SKMBT_28323050911230.pdf
+nduzac/SKMBT_28323050911250.pdf
+nduzac/SKMBT_28323050911260.pdf
+nduzac/SKMBT_28323050911300.pdf
+nduzac/SKMBT_28323050911310.pdf
+nmendieta/
+nmendieta/BOLETIN 17773 OP 3764.pdf
+nmendieta/BOLETIN VARIAS OP 3764.pdf
+nmendieta/DELFINO 1295 OP 3651.pdf
+nmendieta/MONTOTO 139 OP 3656.pdf
+nmendieta/ROBLEZ 842 OP 3714.pdf
+nmendieta/ROBLEZ 843 OP 3714.pdf
+nmendieta/SACAYAN 271 OP 3645.pdf
+ochade/
+ochade/SKM_284e23050911380.pdf
+ochade/SKM_C554e23050909320.pdf
+ochade/SKM_C554e23050909321.pdf
+ochade/SKM_C554e23050911060.pdf
+ochade/SKM_C554e23050911090.pdf
+pgallardo/
+pgallardo/SKMBT_28323050814530.pdf
+rgonzalez/
+rgonzalez/SKMBT_28323050808020.pdf
+rjerez/
+rjerez/SKMBT_28323050809110.pdf
+rjerez/SKMBT_28323050909080.pdf
+rjerez/certific Thiago 8 mayo.pdf
+rjerez/permiso de salida 5 mayo.pdf
+rjerez/ramon certif 9 mayo.pdf
+rjerez/suministro 110372.pdf
+rlencina/
+rlencina/SKM_C554e23050809590.pdf
+rlencina/SKM_C554e23050809591.pdf
+scechetto/
+scechetto/Thumbs.db
+smorales/
+smorales/5-Ratificación Ordenanzas HCD 2023.pdf
+smorales/SKMBT_28323050912580.pdf
+ssilva/
+ssilva/SKM_C30823050908330.pdf
+svallejos/
+svallejos/87383 constanciasy estados deuda.pdf
+svallejos/87383 planillas asignacion.pdf
+svallejos/87383.pdf
+svallejos/contesta incidente.pdf
+tdepalma/
+tdepalma/SKMBT_28323050810230.pdf
+tdepalma/SKMBT_28323050810290.pdf
+tdepalma/SKMBT_28323050811220.pdf
+tdepalma/SKMBT_28323050811240.pdf
+tdepalma/SKMBT_28323050812160.pdf
+tdepalma/SKMBT_28323050812230.pdf
+tdepalma/SKMBT_28323050812330.pdf
+tdepalma/SKMBT_28323050813130.pdf
+tdepalma/SKMBT_28323050813180.pdf
+tdepalma/SKMBT_28323050813500.pdf
+tdepalma/SKMBT_28323050814340.pdf
+tdepalma/SKMBT_28323050814550.pdf
+tdepalma/SKMBT_28323050814570.pdf
+tdepalma/SKMBT_28323050910440.pdf
+tdepalma/SKMBT_28323050912120.pdf
+tdepalma/SKMBT_28323050912170.pdf
+tdepalma/SKMBT_28323050913040.pdf
+tdepalma/SKMBT_28323050913131.pdf
+tdepalma/SKMBT_28323050913230.pdf
+tdepalma/SKMBT_28323050913260.pdf
+tdepalma/SKMBT_28323050913300.pdf
+tdepalma/SKMBT_28323050913320.pdf
+vamit/
+vamit/SKMBT_28323050808540.pdf
+ymontenegro/
+ymontenegro/87425.pdf
+
+sent 610.32M bytes  received 31.52K bytes  300.00K bytes/sec
+total size is 57.79G  speedup is 94.69
+ 
+20230509[12:21:53] -- Fin Backup Archivos de Usuarios del File Server 
+20230509[12:21:53] -- Backup Archivos de Grupos del File Server 
+20230509[14:27:01] -- 
+Number of files: 282,182 (reg: 264,611, dir: 17,571)
+Number of created files: 873 (reg: 832, dir: 41)
+Number of deleted files: 588 (reg: 511, dir: 77)
+Number of regular files transferred: 1,092
+Total file size: 169,537,731,197 bytes
+Total transferred file size: 558,191,890 bytes
+Literal data: 558,188,144 bytes
+Matched data: 0 bytes
+File list size: 1,310,559
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 567,607,736
+Total bytes received: 87,816
+
+sent 567,607,736 bytes  received 87,816 bytes  75,607.05 bytes/sec
+total size is 169,537,731,197  speedup is 298.64
+ 
+20230509[14:27:01] -- Fin Backup Archivos de Grupos del File Server 
+20230509[14:27:09] -- (535, b'5.7.139 Authentication unsuccessful, the user credentials were incorrect. [CP3P284CA0132.BRAP284.PROD.OUTLOOK.COM 2023-05-09T17:27:09.085Z 08DB5048FE6132F0]') 
+

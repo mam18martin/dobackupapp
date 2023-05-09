@@ -8,8 +8,8 @@ def backapear(conf: object, lg: object)-> None:
     bkp.setconfig(conf)
     lg.set_log(conf.title)
     out = bkp.doBackup()
-    lg.set_log(out)
-    lg.set_log(f"Fin {conf.title}")
+    lg.set_log(f"Estadisticas de la Tarea: {out}\n")
+    lg.set_log(f"Fin {conf.title}\n\n")
 
 # EntryPoint
 
@@ -22,11 +22,15 @@ if __name__ == "__main__":
 
     backapear(cnf.bkpusers, lg)
     backapear(cnf.bkpgroups, lg)
+
+    lg.set_log(f"Enviando email a {smtp.recipient}")
     
     mail.set_message(lg.get_log())    
     a, msg = mail.send()
 
     if not a:
-        lg.set_log(msg)
-        
+        lg.set_log(f"Error: {msg} \n")
+    else:
+        lg.set_log("Email enviado con exito \n")
+    
     lg.write_log()

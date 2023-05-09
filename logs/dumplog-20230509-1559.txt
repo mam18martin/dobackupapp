@@ -1,0 +1,41 @@
+20230509[15:59:25] -- Backup Archivos de Usuarios del File Server 
+20230509[15:59:48] -- Estadisticas de la Tarea: 
+Number of files: 83,293 (reg: 78,153, dir: 5,140)
+Number of created files: 8 (reg: 8)
+Number of deleted files: 2 (reg: 2)
+Number of regular files transferred: 8
+Total file size: 57.65G bytes
+Total transferred file size: 4.47M bytes
+Literal data: 4.47M bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.004 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 7.01M
+Total bytes received: 5.96K
+
+sent 7.01M bytes  received 5.96K bytes  298.71K bytes/sec
+total size is 57.65G  speedup is 8,212.13
+ 
+20230509[15:59:48] -- <p>Fin Backup Archivos de Usuarios del File Server</p> 
+20230509[15:59:48] -- Backup Archivos de Grupos del File Server 
+20230509[16:03:18] -- Estadisticas de la Tarea: 
+Number of files: 284,230 (reg: 266,602, dir: 17,628)
+Number of created files: 22 (reg: 22)
+Number of deleted files: 27 (reg: 27)
+Number of regular files transferred: 53
+Total file size: 172.94G bytes
+Total transferred file size: 60.45M bytes
+Literal data: 60.45M bytes
+Matched data: 0 bytes
+File list size: 196.61K
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 69.77M
+Total bytes received: 23.53K
+
+sent 69.77M bytes  received 23.53K bytes  331.55K bytes/sec
+total size is 172.94G  speedup is 2,477.96
+ 
+20230509[16:03:18] -- <p>Fin Backup Archivos de Grupos del File Server</p> 
+
