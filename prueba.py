@@ -17,7 +17,8 @@ mifuncion(ob)
 
 print(ob.mivar)
 
-    
+def noseque():
+    pass  
 
 
 
