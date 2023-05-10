@@ -18,7 +18,9 @@ mifuncion(ob)
 print(ob.mivar)
 
 def noseque():
-    pass  
+    print("No se que")
+
+  
 
 
 
