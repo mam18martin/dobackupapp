@@ -1,3 +1,10 @@
+import subprocess
+
+list_files = subprocess.run(["./libs/usodisco", "/dev/sdb1"], capture_output=True, text=True)
+salida = list_files.stdout.replace("\n","")
+print(salida)
+
+
 class miobjeto:
     mivar = None
     otra = None
@@ -9,6 +16,9 @@ def mifuncion(vobj):
     vobj.mivar = "A verga"
     print(vobj)
 
+
+
+"""
 ob = miobjeto()
 
 print(ob)
@@ -17,7 +27,10 @@ mifuncion(ob)
 
 print(ob.mivar)
 
-    
+def noseque():
+    print("No se que")
+
+  
 
 
 
@@ -36,3 +49,5 @@ print(ob.mivar)
 
 #with open("logs/salida.html", "+a") as h:
 #    h.write(htmlstr)
+
+"""
