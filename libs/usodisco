@@ -1,4 +1,0 @@
-#!/usr/bin/bash
-partition=$1
-df -h | grep $partition | tr -s " " | cut -d " " -f 5,2 | awk -v par=${partition} '{print "Uso de disco en " par ": " $2 " de " $1}'
-
