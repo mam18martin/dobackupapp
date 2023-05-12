@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import subprocess
 from libs.yamltoobj import YamlToObj
 from libs.logger import Logger
@@ -21,7 +22,7 @@ def diskused(fsmount: str)->str:
 
 if __name__ == "__main__":
     lg = Logger()
-    cnf = YamlToObj("conf/config.yaml")
+    cnf = YamlToObj("./conf/config.yaml")
     fsmount = cnf.fsmount.partition
     smtp = cnf.smtpconf
     smtp.subject += lg.textime
