@@ -19,3 +19,6 @@ bkpgroups:
     destination: "/mnt/sfsbackup/backup/dominio/fileserver/grupos/"
     folder: "ultimobk/"
     options: "-ah --stats -x --no-X --no-p --no-o --no-g --ignore-errors --delete --delete-excluded --chmod=D2755,F644 --force --backup --backup-dir="
+
+fsmount:
+    partition: "/mnt/sfsbackup"
