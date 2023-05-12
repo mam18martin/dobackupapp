@@ -5,7 +5,6 @@ salida = list_files.stdout.replace("\n","")
 print(salida)
 
 
-"""
 class miobjeto:
     mivar = None
     otra = None
@@ -17,6 +16,9 @@ def mifuncion(vobj):
     vobj.mivar = "A verga"
     print(vobj)
 
+
+
+"""
 ob = miobjeto()
 
 print(ob)
